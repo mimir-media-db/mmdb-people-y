@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yao_ming",
+  "name": "Yao Ming",
+  "external_ids": {
+    "wikidata": "Q58590",
+    "imdb": "nm1495244"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

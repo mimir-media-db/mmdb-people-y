@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_you",
+  "name": "You",
+  "external_ids": {
+    "wikidata": "Q4902933",
+    "imdb": "nm1645591"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
