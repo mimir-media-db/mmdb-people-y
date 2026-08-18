@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yale_strom",
+  "name": "Yale Strom",
+  "external_ids": {
+    "wikidata": "Q8047434",
+    "imdb": "nm0834889"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}
