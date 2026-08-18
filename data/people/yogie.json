@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yogie",
+  "name": "Yogie",
+  "external_ids": {
+    "wikidata": "Q16214693",
+    "imdb": "nm2861878"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}
