@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "p_yanina_studilina",
+    "name": "Yanina Studilina",
+    "birth_year": 1985,
+    "path": "data/people/yanina_studilina.json"
+  },
+  {
+    "id": "p_yaniv_swissa",
+    "name": "Yaniv Swissa",
+    "birth_year": 1977,
+    "path": "data/people/yaniv_swissa.json"
+  },
+  {
+    "id": "p_yevgeni_grishkovetz",
+    "name": "Yevgeni Grishkovetz",
+    "birth_year": 1967,
+    "path": "data/people/yevgeni_grishkovetz.json"
+  }
+]
