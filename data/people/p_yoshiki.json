@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yoshiki",
+  "name": "Yoshiki",
+  "external_ids": {
+    "wikidata": "Q311193",
+    "imdb": "nm0370668"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
