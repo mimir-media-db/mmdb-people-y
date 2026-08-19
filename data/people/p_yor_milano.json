@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yor_milano",
+  "name": "Yor Milano",
+  "external_ids": {
+    "wikidata": "Q4022888",
+    "imdb": "nm1169264"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1938
+}
