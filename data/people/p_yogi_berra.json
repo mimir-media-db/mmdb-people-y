@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_yogi_berra",
+  "name": "Yogi Berra",
+  "external_ids": {
+    "wikidata": "Q367566",
+    "imdb": "nm0077286"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1925,
+  "death_year": 2015
+}
