@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yildiz_kultur",
+  "name": "Yildiz Kültür",
+  "external_ids": {
+    "wikidata": "Q6074287",
+    "imdb": "nm1876440"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}
