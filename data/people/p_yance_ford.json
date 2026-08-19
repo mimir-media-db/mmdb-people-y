@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yance_ford",
+  "name": "Yance Ford",
+  "external_ids": {
+    "wikidata": "Q38053759",
+    "imdb": "nm3496466"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949
+}
