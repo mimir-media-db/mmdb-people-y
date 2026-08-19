@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_yago_blanco",
+  "name": "Yago Blanco",
+  "external_ids": {
+    "wikidata": "Q114908355",
+    "imdb": "nm2178446"
+  },
+  "last_updated": "2026-08-19"
+}
