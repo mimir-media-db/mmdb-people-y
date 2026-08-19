@@ -16,6 +16,18 @@
     "path": "data/people/p_y_kasi_viswanath.json"
   },
   {
+    "id": "p_yaackov_ayali",
+    "name": "Ya'ackov Ayali",
+    "birth_year": 1957,
+    "path": "data/people/p_yaackov_ayali.json"
+  },
+  {
+    "id": "p_yaakov_bodo",
+    "name": "Yaakov Bodo",
+    "birth_year": 1931,
+    "path": "data/people/p_yaakov_bodo.json"
+  },
+  {
     "id": "p_yaani_king",
     "name": "Yaani King",
     "birth_year": 1981,
@@ -52,6 +64,12 @@
     "path": "data/people/p_yadi_timo.json"
   },
   {
+    "id": "p_yadira_pascault_orozco",
+    "name": "Yadira Pascault Orozco",
+    "birth_year": 1900,
+    "path": "data/people/p_yadira_pascault_orozco.json"
+  },
+  {
     "id": "p_yadollah_shahidi",
     "name": "Yadollah Shahidi",
     "birth_year": 1949,
@@ -76,10 +94,28 @@
     "path": "data/people/p_yael_fogiel.json"
   },
   {
+    "id": "p_yael_grobglas",
+    "name": "Yael Grobglas",
+    "birth_year": 1984,
+    "path": "data/people/p_yael_grobglas.json"
+  },
+  {
     "id": "p_yael_hadar",
     "name": "Yael Hadar",
     "birth_year": 1968,
     "path": "data/people/p_yael_hadar.json"
+  },
+  {
+    "id": "p_yael_hersonski",
+    "name": "Yael Hersonski",
+    "birth_year": 1975,
+    "path": "data/people/p_yael_hersonski.json"
+  },
+  {
+    "id": "p_yael_levental",
+    "name": "Yael Levental",
+    "birth_year": 1968,
+    "path": "data/people/p_yael_levental.json"
   },
   {
     "id": "p_yael_poliakov",
@@ -91,6 +127,12 @@
     "id": "p_yagmur_taylan",
     "name": "Yağmur Taylan",
     "path": "data/people/p_yagmur_taylan.json"
+  },
+  {
+    "id": "p_yahima_torres",
+    "name": "Yahima Torres",
+    "birth_year": 1980,
+    "path": "data/people/p_yahima_torres.json"
   },
   {
     "id": "p_yahli_tassat",
@@ -195,6 +237,11 @@
     "path": "data/people/p_yama_carlos.json"
   },
   {
+    "id": "p_yama_devi_bista",
+    "name": "Yama Devi Bista",
+    "path": "data/people/p_yama_devi_bista.json"
+  },
+  {
     "id": "p_yaman_tarcan",
     "name": "Yaman Tarcan",
     "birth_year": 1958,
@@ -225,6 +272,12 @@
     "path": "data/people/p_yamina_benguigui.json"
   },
   {
+    "id": "p_yamina_zoutat",
+    "name": "Yamina Zoutat",
+    "birth_year": 1970,
+    "path": "data/people/p_yamina_zoutat.json"
+  },
+  {
     "id": "p_yan_bingliang",
     "name": "Yan Bingliang",
     "path": "data/people/p_yan_bingliang.json"
@@ -245,6 +298,18 @@
     "id": "p_yan_kai_yu",
     "name": "Yan Kai Yu",
     "path": "data/people/p_yan_kai_yu.json"
+  },
+  {
+    "id": "p_yan_karlens",
+    "name": "Yan Karlens",
+    "birth_year": 1971,
+    "path": "data/people/p_yan_karlens.json"
+  },
+  {
+    "id": "p_yan_minqiu",
+    "name": "Yan Minqiu",
+    "birth_year": 1941,
+    "path": "data/people/p_yan_minqiu.json"
   },
   {
     "id": "p_yan_ng",
@@ -286,6 +351,12 @@
     "name": "Yana Poplavskaya",
     "birth_year": 1967,
     "path": "data/people/p_yana_poplavskaya.json"
+  },
+  {
+    "id": "p_yana_titova",
+    "name": "Yana Titova",
+    "birth_year": 1983,
+    "path": "data/people/p_yana_titova.json"
   },
   {
     "id": "p_yana_troyanova",
@@ -370,6 +441,12 @@
     "path": "data/people/p_yang_lichou.json"
   },
   {
+    "id": "p_yang_mi",
+    "name": "Yang Mi",
+    "birth_year": 1986,
+    "path": "data/people/p_yang_mi.json"
+  },
+  {
     "id": "p_yang_xiaodan",
     "name": "Yang Xiaodan",
     "path": "data/people/p_yang_xiaodan.json"
@@ -439,6 +516,12 @@
     "path": "data/people/p_yanina_studilina.json"
   },
   {
+    "id": "p_yanis_koussim",
+    "name": "Yanis Koussim",
+    "birth_year": 1976,
+    "path": "data/people/p_yanis_koussim.json"
+  },
+  {
     "id": "p_yaniss_lespert",
     "name": "Yaniss Lespert",
     "birth_year": 1989,
@@ -493,6 +576,12 @@
     "path": "data/people/p_yann_dedet.json"
   },
   {
+    "id": "p_yann_gael",
+    "name": "Yann Gael",
+    "birth_year": 1986,
+    "path": "data/people/p_yann_gael.json"
+  },
+  {
     "id": "p_yann_gilbert",
     "name": "Yann Gilbert",
     "path": "data/people/p_yann_gilbert.json"
@@ -502,6 +591,12 @@
     "name": "Yann Goven",
     "birth_year": 1952,
     "path": "data/people/p_yann_goven.json"
+  },
+  {
+    "id": "p_yann_gozlan",
+    "name": "Yann Gozlan",
+    "birth_year": 1977,
+    "path": "data/people/p_yann_gozlan.json"
   },
   {
     "id": "p_yann_johnson",
@@ -532,6 +627,12 @@
     "path": "data/people/p_yann_perreau.json"
   },
   {
+    "id": "p_yann_pradal",
+    "name": "Yann Pradal",
+    "birth_year": 1952,
+    "path": "data/people/p_yann_pradal.json"
+  },
+  {
     "id": "p_yann_queffelec",
     "name": "Yann Queffélec",
     "birth_year": 1949,
@@ -560,6 +661,12 @@
     "name": "Yanna McIntosh",
     "birth_year": 1969,
     "path": "data/people/p_yanna_mcintosh.json"
+  },
+  {
+    "id": "p_yannick_bisson",
+    "name": "Yannick Bisson",
+    "birth_year": 1969,
+    "path": "data/people/p_yannick_bisson.json"
   },
   {
     "id": "p_yannick_blivet",
@@ -651,6 +758,12 @@
     "path": "data/people/p_yao_chen.json"
   },
   {
+    "id": "p_yao_lu",
+    "name": "Yao Lu",
+    "birth_year": 1968,
+    "path": "data/people/p_yao_lu.json"
+  },
+  {
     "id": "p_yao_ming",
     "name": "Yao Ming",
     "birth_year": 1980,
@@ -685,6 +798,17 @@
     "name": "Yaragudipati Venkata Mahalakshmi",
     "birth_year": 1952,
     "path": "data/people/p_yaragudipati_venkata_mahalakshmi.json"
+  },
+  {
+    "id": "p_yarden_barkochba",
+    "name": "Yarden Bar-Kochba",
+    "birth_year": 1970,
+    "path": "data/people/p_yarden_barkochba.json"
+  },
+  {
+    "id": "p_yardly_kavanagh",
+    "name": "Yardly Kavanagh",
+    "path": "data/people/p_yardly_kavanagh.json"
   },
   {
     "id": "p_yareli_arizmendi",
@@ -793,6 +917,12 @@
     "name": "Yash Johar",
     "birth_year": 1929,
     "path": "data/people/p_yash_johar.json"
+  },
+  {
+    "id": "p_yash_kumar",
+    "name": "Yash Kumar",
+    "birth_year": 1978,
+    "path": "data/people/p_yash_kumar.json"
   },
   {
     "id": "p_yash_pandit",
@@ -1011,6 +1141,11 @@
     "path": "data/people/p_yasuhiro_hatsuyama.json"
   },
   {
+    "id": "p_yasuhiro_kawamura",
+    "name": "Yasuhiro Kawamura",
+    "path": "data/people/p_yasuhiro_kawamura.json"
+  },
+  {
     "id": "p_yasuhiro_yoshida",
     "name": "Yasuhiro Yoshida",
     "birth_year": 1978,
@@ -1033,6 +1168,12 @@
     "name": "Yasuko Matsuyuki",
     "birth_year": 1972,
     "path": "data/people/p_yasuko_matsuyuki.json"
+  },
+  {
+    "id": "p_yasuko_tomita",
+    "name": "Yasuko Tomita",
+    "birth_year": 1969,
+    "path": "data/people/p_yasuko_tomita.json"
   },
   {
     "id": "p_yasunari_kondo",
@@ -1116,6 +1257,12 @@
     "path": "data/people/p_yau_naihoi.json"
   },
   {
+    "id": "p_yavor_baharov",
+    "name": "Yavor Baharov",
+    "birth_year": 1985,
+    "path": "data/people/p_yavor_baharov.json"
+  },
+  {
     "id": "p_yavuz_bingol",
     "name": "Yavuz Bingöl",
     "birth_year": 1964,
@@ -1170,6 +1317,12 @@
     "path": "data/people/p_yazid_benfeghoul.json"
   },
   {
+    "id": "p_ydwer_bosma",
+    "name": "Ydwer Bosma",
+    "birth_year": 1993,
+    "path": "data/people/p_ydwer_bosma.json"
+  },
+  {
     "id": "p_ye_jin",
     "name": "Ye Jin",
     "path": "data/people/p_ye_jin.json"
@@ -1179,6 +1332,12 @@
     "name": "Ye Ji-won",
     "birth_year": 1973,
     "path": "data/people/p_ye_jiwon.json"
+  },
+  {
+    "id": "p_yeardley_smith",
+    "name": "Yeardley Smith",
+    "birth_year": 1964,
+    "path": "data/people/p_yeardley_smith.json"
   },
   {
     "id": "p_yee_chinyen",
@@ -1197,6 +1356,12 @@
     "name": "Yeelem Jappain",
     "birth_year": 1987,
     "path": "data/people/p_yeelem_jappain.json"
+  },
+  {
+    "id": "p_yegor_benckendorf",
+    "name": "Yegor Benckendorf",
+    "birth_year": 1974,
+    "path": "data/people/p_yegor_benckendorf.json"
   },
   {
     "id": "p_yegor_konchalovsky",
@@ -1268,6 +1433,12 @@
     "name": "Yekaterina Guseva",
     "birth_year": 1976,
     "path": "data/people/p_yekaterina_guseva.json"
+  },
+  {
+    "id": "p_yekaterina_khlystova",
+    "name": "Yekaterina Khlystova",
+    "birth_year": 1977,
+    "path": "data/people/p_yekaterina_khlystova.json"
   },
   {
     "id": "p_yekaterina_krupenina",
@@ -1456,6 +1627,12 @@
     "path": "data/people/p_yella_rottlander.json"
   },
   {
+    "id": "p_yelle",
+    "name": "Yelle",
+    "birth_year": 1983,
+    "path": "data/people/p_yelle.json"
+  },
+  {
     "id": "p_yemi_ad",
     "name": "Yemi A.D.",
     "birth_year": 1981,
@@ -1530,6 +1707,12 @@
     "name": "Yeo Yann Yann",
     "birth_year": 1977,
     "path": "data/people/p_yeo_yann_yann.json"
+  },
+  {
+    "id": "p_yeom_hyeran",
+    "name": "Yeom Hye-ran",
+    "birth_year": 1975,
+    "path": "data/people/p_yeom_hyeran.json"
   },
   {
     "id": "p_yeon_junghoon",
@@ -1711,6 +1894,12 @@
     "path": "data/people/p_yevgeny_mironov.json"
   },
   {
+    "id": "p_yevgeny_mundum",
+    "name": "Yevgeny Mundum",
+    "birth_year": 1962,
+    "path": "data/people/p_yevgeny_mundum.json"
+  },
+  {
     "id": "p_yevgeny_pronin",
     "name": "Yevgeny Pronin",
     "birth_year": 1980,
@@ -1783,10 +1972,21 @@
     "path": "data/people/p_yevhen_papernyi.json"
   },
   {
+    "id": "p_yew_kwang_han",
+    "name": "Yew Kwang Han",
+    "path": "data/people/p_yew_kwang_han.json"
+  },
+  {
     "id": "p_yi_chunde",
     "name": "Yi Chunde",
     "birth_year": 1975,
     "path": "data/people/p_yi_chunde.json"
+  },
+  {
+    "id": "p_yi_jet_qi",
+    "name": "Yi Jet Qi",
+    "birth_year": 1972,
+    "path": "data/people/p_yi_jet_qi.json"
   },
   {
     "id": "p_yi_lu_wei",
@@ -1824,6 +2024,12 @@
     "path": "data/people/p_yigal_naor.json"
   },
   {
+    "id": "p_yigal_sade",
+    "name": "Yigal Sade",
+    "birth_year": 1961,
+    "path": "data/people/p_yigal_sade.json"
+  },
+  {
     "id": "p_yigit_ozsener",
     "name": "Yiğit Özşener",
     "birth_year": 1972,
@@ -1858,6 +2064,12 @@
     "name": "Yim Pil-sung",
     "birth_year": 1972,
     "path": "data/people/p_yim_pilsung.json"
+  },
+  {
+    "id": "p_yin_hang",
+    "name": "Yin Hang",
+    "birth_year": 1988,
+    "path": "data/people/p_yin_hang.json"
   },
   {
     "id": "p_yin_li",
@@ -1960,6 +2172,12 @@
     "path": "data/people/p_yllka_gashi.json"
   },
   {
+    "id": "p_yllka_mujo",
+    "name": "Yllka Mujo",
+    "birth_year": 1953,
+    "path": "data/people/p_yllka_mujo.json"
+  },
+  {
     "id": "p_ylmaz_arslan",
     "name": "Yılmaz Arslan",
     "birth_year": 1968,
@@ -2055,6 +2273,12 @@
     "path": "data/people/p_yoana_bukovska.json"
   },
   {
+    "id": "p_yoani_sanchez",
+    "name": "Yoani Sánchez",
+    "birth_year": 1975,
+    "path": "data/people/p_yoani_sanchez.json"
+  },
+  {
     "id": "p_yoann_denaive",
     "name": "Yoann Denaive",
     "birth_year": 1949,
@@ -2065,6 +2289,11 @@
     "name": "Yoann Sover",
     "birth_year": 1980,
     "path": "data/people/p_yoann_sover.json"
+  },
+  {
+    "id": "p_yoav_factor",
+    "name": "Yoav Factor",
+    "path": "data/people/p_yoav_factor.json"
   },
   {
     "id": "p_yoav_halevy",
@@ -2079,10 +2308,22 @@
     "path": "data/people/p_yoav_hayet.json"
   },
   {
+    "id": "p_yoav_levi",
+    "name": "Yoav Levi",
+    "birth_year": 1974,
+    "path": "data/people/p_yoav_levi.json"
+  },
+  {
     "id": "p_yoav_roeh",
     "name": "Yoav Roeh",
     "birth_year": 1967,
     "path": "data/people/p_yoav_roeh.json"
+  },
+  {
+    "id": "p_yoav_rotman",
+    "name": "Yoav Rotman",
+    "birth_year": 1995,
+    "path": "data/people/p_yoav_rotman.json"
   },
   {
     "id": "p_yoav_shamir",
@@ -2118,6 +2359,12 @@
     "id": "p_yogesh_bharadwaj",
     "name": "Yogesh Bharadwaj",
     "path": "data/people/p_yogesh_bharadwaj.json"
+  },
+  {
+    "id": "p_yogesh_dattatraya_gosavi",
+    "name": "Yogesh Dattatraya Gosavi",
+    "birth_year": 1981,
+    "path": "data/people/p_yogesh_dattatraya_gosavi.json"
   },
   {
     "id": "p_yogesh_ishwar",
@@ -2164,6 +2411,11 @@
     "name": "Yohanna Troell",
     "birth_year": 1983,
     "path": "data/people/p_yohanna_troell.json"
+  },
+  {
+    "id": "p_yohannes_feleke",
+    "name": "Yohannes Feleke",
+    "path": "data/people/p_yohannes_feleke.json"
   },
   {
     "id": "p_yohei_fukuda",
@@ -2409,15 +2661,33 @@
     "path": "data/people/p_yonatan_uziel.json"
   },
   {
+    "id": "p_yonathan_levy",
+    "name": "Yonathan Levy",
+    "birth_year": 1983,
+    "path": "data/people/p_yonathan_levy.json"
+  },
+  {
     "id": "p_yonathan_zur",
     "name": "Yonathan Zur",
     "path": "data/people/p_yonathan_zur.json"
+  },
+  {
+    "id": "p_yoneko_matsukane",
+    "name": "Yoneko Matsukane",
+    "birth_year": 1949,
+    "path": "data/people/p_yoneko_matsukane.json"
   },
   {
     "id": "p_yonfan",
     "name": "Yonfan",
     "birth_year": 1947,
     "path": "data/people/p_yonfan.json"
+  },
+  {
+    "id": "p_yong_mei",
+    "name": "Yong Mei",
+    "birth_year": 1970,
+    "path": "data/people/p_yong_mei.json"
   },
   {
     "id": "p_yong_yi",
@@ -2444,6 +2714,12 @@
     "path": "data/people/p_yoni_zicholtz.json"
   },
   {
+    "id": "p_yony_leyser",
+    "name": "Yony Leyser",
+    "birth_year": 1984,
+    "path": "data/people/p_yony_leyser.json"
+  },
+  {
     "id": "p_yoo_ahin",
     "name": "Yoo Ah-in",
     "birth_year": 1986,
@@ -2454,6 +2730,12 @@
     "name": "Yoo Chae-yeong",
     "birth_year": 1973,
     "path": "data/people/p_yoo_chaeyeong.json"
+  },
+  {
+    "id": "p_yoo_dain",
+    "name": "Yoo Da-in",
+    "birth_year": 1984,
+    "path": "data/people/p_yoo_dain.json"
   },
   {
     "id": "p_yoo_donggeun",
@@ -2522,6 +2804,12 @@
     "path": "data/people/p_yoo_sun.json"
   },
   {
+    "id": "p_yoo_yeonseok",
+    "name": "Yoo Yeon-seok",
+    "birth_year": 1984,
+    "path": "data/people/p_yoo_yeonseok.json"
+  },
+  {
     "id": "p_yoo_youngsik",
     "name": "Yoo Young-sik",
     "birth_year": 1966,
@@ -2570,6 +2858,12 @@
     "path": "data/people/p_yoon_hyeryeom.json"
   },
   {
+    "id": "p_yoon_jaekeun",
+    "name": "Yoon Jae-keun",
+    "birth_year": 1967,
+    "path": "data/people/p_yoon_jaekeun.json"
+  },
+  {
     "id": "p_yoon_jekyoon",
     "name": "Yoon Je-kyoon",
     "birth_year": 1969,
@@ -2580,6 +2874,12 @@
     "name": "Yoon Je-moon",
     "birth_year": 1970,
     "path": "data/people/p_yoon_jemoon.json"
+  },
+  {
+    "id": "p_yoon_jeonghee",
+    "name": "Yoon Jeong-hee",
+    "birth_year": 1944,
+    "path": "data/people/p_yoon_jeonghee.json"
   },
   {
     "id": "p_yoon_jimin",
@@ -2630,6 +2930,12 @@
     "path": "data/people/p_yoon_soyi.json"
   },
   {
+    "id": "p_yoon_sunghyun",
+    "name": "Yoon Sung-hyun",
+    "birth_year": 1982,
+    "path": "data/people/p_yoon_sunghyun.json"
+  },
+  {
     "id": "p_yoon_taeyong",
     "name": "Yoon Tae-yong",
     "path": "data/people/p_yoon_taeyong.json"
@@ -2669,6 +2975,12 @@
     "name": "Yoram Yosefsberg",
     "birth_year": 1963,
     "path": "data/people/p_yoram_yosefsberg.json"
+  },
+  {
+    "id": "p_yordan_bikov",
+    "name": "Yordan Bikov",
+    "birth_year": 1950,
+    "path": "data/people/p_yordan_bikov.json"
   },
   {
     "id": "p_yordanka_kuzmanova",
@@ -2753,6 +3065,12 @@
     "path": "data/people/p_yoshi_oida.json"
   },
   {
+    "id": "p_yoshi_sudarso",
+    "name": "Yoshi Sudarso",
+    "birth_year": 1989,
+    "path": "data/people/p_yoshi_sudarso.json"
+  },
+  {
     "id": "p_yoshiaki_kawajiri",
     "name": "Yoshiaki Kawajiri",
     "birth_year": 1950,
@@ -2818,6 +3136,12 @@
     "path": "data/people/p_yoshihiro_nishimura.json"
   },
   {
+    "id": "p_yoshihiro_suzuki",
+    "name": "Yoshihiro Suzuki",
+    "birth_year": 1968,
+    "path": "data/people/p_yoshihiro_suzuki.json"
+  },
+  {
     "id": "p_yoshihiro_takayama",
     "name": "Yoshihiro Takayama",
     "birth_year": 1966,
@@ -2854,6 +3178,11 @@
     "path": "data/people/p_yoshikazu_kotani.json"
   },
   {
+    "id": "p_yoshikazu_miyao",
+    "name": "Yoshikazu Miyao",
+    "path": "data/people/p_yoshikazu_miyao.json"
+  },
+  {
     "id": "p_yoshiki",
     "name": "Yoshiki",
     "birth_year": 1965,
@@ -2876,6 +3205,12 @@
     "name": "Yoshiko Mita",
     "birth_year": 1941,
     "path": "data/people/p_yoshiko_mita.json"
+  },
+  {
+    "id": "p_yoshiko_miyazaki",
+    "name": "Yoshiko Miyazaki",
+    "birth_year": 1958,
+    "path": "data/people/p_yoshiko_miyazaki.json"
   },
   {
     "id": "p_yoshiko_tanaka",
@@ -2946,6 +3281,11 @@
     "id": "p_yoshinori_kumazawa",
     "name": "Yoshinori Kumazawa",
     "path": "data/people/p_yoshinori_kumazawa.json"
+  },
+  {
+    "id": "p_yoshinori_muratani",
+    "name": "Yoshinori Muratani",
+    "path": "data/people/p_yoshinori_muratani.json"
   },
   {
     "id": "p_yoshinori_okada",
@@ -3113,6 +3453,12 @@
     "path": "data/people/p_yosuke_nakagawa.json"
   },
   {
+    "id": "p_yota_mori",
+    "name": "Yōta Mori",
+    "birth_year": 1986,
+    "path": "data/people/p_yota_mori.json"
+  },
+  {
     "id": "p_yotuel_romero",
     "name": "Yotuel Romero",
     "birth_year": 1976,
@@ -3242,10 +3588,21 @@
     "path": "data/people/p_youssef_chahine.json"
   },
   {
+    "id": "p_youssef_chebbi",
+    "name": "Youssef Chebbi",
+    "birth_year": 1983,
+    "path": "data/people/p_youssef_chebbi.json"
+  },
+  {
     "id": "p_youssef_dawoud",
     "name": "Youssef Dawoud",
     "birth_year": 1938,
     "path": "data/people/p_youssef_dawoud.json"
+  },
+  {
+    "id": "p_youssef_delara",
+    "name": "Youssef Delara",
+    "path": "data/people/p_youssef_delara.json"
   },
   {
     "id": "p_youssef_hajdi",
@@ -3391,6 +3748,12 @@
     "path": "data/people/p_yu_seondong.json"
   },
   {
+    "id": "p_yu_seongyeop",
+    "name": "Yu Seong-yeop",
+    "birth_year": 1960,
+    "path": "data/people/p_yu_seongyeop.json"
+  },
+  {
     "id": "p_yu_shaoqun",
     "name": "Yu Shaoqun",
     "birth_year": 1983,
@@ -3450,9 +3813,21 @@
     "path": "data/people/p_yuanita_christiani.json"
   },
   {
+    "id": "p_yucel_erten",
+    "name": "Yücel Erten",
+    "birth_year": 1945,
+    "path": "data/people/p_yucel_erten.json"
+  },
+  {
     "id": "p_yucel_yolcu",
     "name": "Yücel Yolcu",
     "path": "data/people/p_yucel_yolcu.json"
+  },
+  {
+    "id": "p_yudai_chiba",
+    "name": "Yudai Chiba",
+    "birth_year": 1989,
+    "path": "data/people/p_yudai_chiba.json"
   },
   {
     "id": "p_yudai_yamaguchi",
@@ -3603,6 +3978,12 @@
     "name": "Yūichirō Hirakawa",
     "birth_year": 1972,
     "path": "data/people/p_yuichiro_hirakawa.json"
+  },
+  {
+    "id": "p_yuichiro_iwaki",
+    "name": "Yūichirō Iwaki",
+    "birth_year": 1973,
+    "path": "data/people/p_yuichiro_iwaki.json"
   },
   {
     "id": "p_yuika_motokariya",
@@ -3821,6 +4202,12 @@
     "path": "data/people/p_yukihiro_kotani.json"
   },
   {
+    "id": "p_yukihiro_takahashi",
+    "name": "Yukihiro Takahashi",
+    "birth_year": 1952,
+    "path": "data/people/p_yukihiro_takahashi.json"
+  },
+  {
     "id": "p_yukijiro_hotaru",
     "name": "Yukijirō Hotaru",
     "birth_year": 1951,
@@ -3904,6 +4291,12 @@
     "path": "data/people/p_yuko_ito.json"
   },
   {
+    "id": "p_yuko_kaida",
+    "name": "Yūko Kaida",
+    "birth_year": 1980,
+    "path": "data/people/p_yuko_kaida.json"
+  },
+  {
     "id": "p_yuko_miyamura",
     "name": "Yūko Miyamura",
     "birth_year": 1972,
@@ -3926,6 +4319,12 @@
     "name": "Yūko Ōshima",
     "birth_year": 1988,
     "path": "data/people/p_yuko_oshima.json"
+  },
+  {
+    "id": "p_yuko_takayama",
+    "name": "Yuko Takayama",
+    "birth_year": 1992,
+    "path": "data/people/p_yuko_takayama.json"
   },
   {
     "id": "p_yuko_takeuchi",
@@ -4062,6 +4461,12 @@
     "name": "Yuliya Aleksandrova",
     "birth_year": 1982,
     "path": "data/people/p_yuliya_aleksandrova.json"
+  },
+  {
+    "id": "p_yuliya_aug",
+    "name": "Yuliya Aug",
+    "birth_year": 1970,
+    "path": "data/people/p_yuliya_aug.json"
   },
   {
     "id": "p_yuliya_kancheva",
@@ -4202,6 +4607,12 @@
     "path": "data/people/p_yun_huiwon.json"
   },
   {
+    "id": "p_yun_ina",
+    "name": "Yun I-na",
+    "birth_year": 1988,
+    "path": "data/people/p_yun_ina.json"
+  },
+  {
     "id": "p_yun_inho",
     "name": "Yun In-ho",
     "birth_year": 1963,
@@ -4279,6 +4690,11 @@
     "path": "data/people/p_yunus_parvez.json"
   },
   {
+    "id": "p_yunus_sajawal",
+    "name": "Yunus Sajawal",
+    "path": "data/people/p_yunus_sajawal.json"
+  },
+  {
     "id": "p_yurei_yanagi",
     "name": "Yūrei Yanagi",
     "birth_year": 1963,
@@ -4297,6 +4713,12 @@
     "path": "data/people/p_yuri_bradac.json"
   },
   {
+    "id": "p_yuri_bykov",
+    "name": "Yuri Bykov",
+    "birth_year": 1981,
+    "path": "data/people/p_yuri_bykov.json"
+  },
+  {
     "id": "p_yuri_foreman",
     "name": "Yuri Foreman",
     "birth_year": 1980,
@@ -4313,6 +4735,12 @@
     "name": "Yuri Galtsev",
     "birth_year": 1961,
     "path": "data/people/p_yuri_galtsev.json"
+  },
+  {
+    "id": "p_yuri_garate",
+    "name": "Yuri Gárate",
+    "birth_year": 1969,
+    "path": "data/people/p_yuri_garate.json"
   },
   {
     "id": "p_yuri_grymov",
@@ -4487,6 +4915,12 @@
     "path": "data/people/p_yuriy_dumchev.json"
   },
   {
+    "id": "p_yuriy_kovaliov",
+    "name": "Yuriy Kovaliov",
+    "birth_year": 1973,
+    "path": "data/people/p_yuriy_kovaliov.json"
+  },
+  {
     "id": "p_yuriy_maslak",
     "name": "Yuriy Maslak",
     "path": "data/people/p_yuriy_maslak.json"
@@ -4546,6 +4980,12 @@
     "path": "data/people/p_yury_bashmet.json"
   },
   {
+    "id": "p_yury_belyayev",
+    "name": "Yury Belyayev",
+    "birth_year": 1947,
+    "path": "data/people/p_yury_belyayev.json"
+  },
+  {
     "id": "p_yury_feting",
     "name": "Yury Feting",
     "birth_year": 1956,
@@ -4598,6 +5038,12 @@
     "name": "Yury Tarasov",
     "birth_year": 1977,
     "path": "data/people/p_yury_tarasov.json"
+  },
+  {
+    "id": "p_yury_torsuyev",
+    "name": "Yury Torsuyev",
+    "birth_year": 1966,
+    "path": "data/people/p_yury_torsuyev.json"
   },
   {
     "id": "p_yury_vaksman",
@@ -4742,6 +5188,12 @@
     "path": "data/people/p_yusuke_tomoi.json"
   },
   {
+    "id": "p_yusuke_yamamoto",
+    "name": "Yusuke Yamamoto",
+    "birth_year": 1988,
+    "path": "data/people/p_yusuke_yamamoto.json"
+  },
+  {
     "id": "p_yuta_hiraoka",
     "name": "Yūta Hiraoka",
     "birth_year": 1984,
@@ -4794,6 +5246,16 @@
     "name": "Yutaka Ōsawa",
     "birth_year": 1935,
     "path": "data/people/p_yutaka_osawa.json"
+  },
+  {
+    "id": "p_yutaka_sugiyama",
+    "name": "Yutaka Sugiyama",
+    "path": "data/people/p_yutaka_sugiyama.json"
+  },
+  {
+    "id": "p_yutaka_suzuki",
+    "name": "Yutaka Suzuki",
+    "path": "data/people/p_yutaka_suzuki.json"
   },
   {
     "id": "p_yutaka_takenouchi",
@@ -4868,6 +5330,12 @@
     "path": "data/people/p_yuvika_chaudhary.json"
   },
   {
+    "id": "p_yuvraj_singh",
+    "name": "Yuvraj Singh",
+    "birth_year": 1981,
+    "path": "data/people/p_yuvraj_singh.json"
+  },
+  {
     "id": "p_yuya_endo",
     "name": "Yuya Endo",
     "birth_year": 1987,
@@ -4896,6 +5364,12 @@
     "name": "Yūya Takagawa",
     "birth_year": 1962,
     "path": "data/people/p_yuya_takagawa.json"
+  },
+  {
+    "id": "p_yuya_tegoshi",
+    "name": "Yuya Tegoshi",
+    "birth_year": 1987,
+    "path": "data/people/p_yuya_tegoshi.json"
   },
   {
     "id": "p_yuya_uchida",
@@ -5094,6 +5568,12 @@
     "path": "data/people/p_yves_jacques.json"
   },
   {
+    "id": "p_yves_jeuland",
+    "name": "Yves Jeuland",
+    "birth_year": 1968,
+    "path": "data/people/p_yves_jeuland.json"
+  },
+  {
     "id": "p_yves_jouffroy",
     "name": "Yves Jouffroy",
     "birth_year": 1954,
@@ -5146,6 +5626,12 @@
     "path": "data/people/p_yves_montand.json"
   },
   {
+    "id": "p_yves_montand_niyongabo",
+    "name": "Yves Montand Niyongabo",
+    "birth_year": 1987,
+    "path": "data/people/p_yves_montand_niyongabo.json"
+  },
+  {
     "id": "p_yves_mourousi",
     "name": "Yves Mourousi",
     "birth_year": 1942,
@@ -5182,6 +5668,12 @@
     "path": "data/people/p_yves_renier.json"
   },
   {
+    "id": "p_yves_saint_laurent",
+    "name": "Yves Saint Laurent",
+    "birth_year": 1936,
+    "path": "data/people/p_yves_saint_laurent.json"
+  },
+  {
     "id": "p_yves_scagliola",
     "name": "Yves Scagliola",
     "path": "data/people/p_yves_scagliola.json"
@@ -5197,6 +5689,12 @@
     "name": "Yves Ternon",
     "birth_year": 1932,
     "path": "data/people/p_yves_ternon.json"
+  },
+  {
+    "id": "p_yves_thuries",
+    "name": "Yves Thuriès",
+    "birth_year": 1938,
+    "path": "data/people/p_yves_thuries.json"
   },
   {
     "id": "p_yves_trudel",
@@ -5316,6 +5814,12 @@
     "path": "data/people/p_yvon_back.json"
   },
   {
+    "id": "p_yvon_bertorello",
+    "name": "Yvon Bertorello",
+    "birth_year": 1962,
+    "path": "data/people/p_yvon_bertorello.json"
+  },
+  {
     "id": "p_yvon_chouinard",
     "name": "Yvon Chouinard",
     "birth_year": 1938,
@@ -5368,6 +5872,12 @@
     "name": "Yvonne Chouteau",
     "birth_year": 1929,
     "path": "data/people/p_yvonne_chouteau.json"
+  },
+  {
+    "id": "p_yvonne_clech",
+    "name": "Yvonne Clech",
+    "birth_year": 1920,
+    "path": "data/people/p_yvonne_clech.json"
   },
   {
     "id": "p_yvonne_delcour",
