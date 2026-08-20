@@ -56,6 +56,12 @@
     "path": "data/people/p_yaakov_cohen.json"
   },
   {
+    "id": "p_yaakov_malkin",
+    "name": "Yaakov Malkin",
+    "birth_year": 1926,
+    "path": "data/people/p_yaakov_malkin.json"
+  },
+  {
     "id": "p_yaakov_zada_daniel",
     "name": "Yaakov Zada Daniel",
     "birth_year": 1979,
@@ -4875,6 +4881,12 @@
     "path": "data/people/p_yi_sangwoo.json"
   },
   {
+    "id": "p_yi_shu",
+    "name": "Yi Shu",
+    "birth_year": 1946,
+    "path": "data/people/p_yi_shu.json"
+  },
+  {
     "id": "p_yi_yi",
     "name": "Yi Yi",
     "birth_year": 1989,
@@ -5307,6 +5319,12 @@
     "name": "Yılmaz Güney",
     "birth_year": 1937,
     "path": "data/people/p_ylmaz_guney.json"
+  },
+  {
+    "id": "p_ylmaz_karakoyunlu",
+    "name": "Yılmaz Karakoyunlu",
+    "birth_year": 1936,
+    "path": "data/people/p_ylmaz_karakoyunlu.json"
   },
   {
     "id": "p_ylmaz_okumus",
@@ -6705,6 +6723,12 @@
     "name": "Yoo Yeon-seok",
     "birth_year": 1984,
     "path": "data/people/p_yoo_yeonseok.json"
+  },
+  {
+    "id": "p_yoo_younga",
+    "name": "Yoo Young-a",
+    "birth_year": 1988,
+    "path": "data/people/p_yoo_younga.json"
   },
   {
     "id": "p_yoo_youngsik",
@@ -8928,6 +8952,12 @@
     "path": "data/people/p_yu_yamada.json"
   },
   {
+    "id": "p_yu_zheng",
+    "name": "Yu Zheng",
+    "birth_year": 1978,
+    "path": "data/people/p_yu_zheng.json"
+  },
+  {
     "id": "p_yu_zhong",
     "name": "Yu Zhong",
     "path": "data/people/p_yu_zhong.json"
@@ -10612,6 +10642,11 @@
     "name": "Yuliya Novikova",
     "birth_year": 1973,
     "path": "data/people/p_yuliya_novikova.json"
+  },
+  {
+    "id": "p_yuliya_opaterna",
+    "name": "Yuliya Opaterna",
+    "path": "data/people/p_yuliya_opaterna.json"
   },
   {
     "id": "p_yuliya_pankratova",
@@ -12684,6 +12719,12 @@
     "name": "Yūzō Asahara",
     "birth_year": 1964,
     "path": "data/people/p_yuzo_asahara.json"
+  },
+  {
+    "id": "p_yuzo_hayashi",
+    "name": "Yūzō Hayashi",
+    "birth_year": 1813,
+    "path": "data/people/p_yuzo_hayashi.json"
   },
   {
     "id": "p_yuzu_aoki",
