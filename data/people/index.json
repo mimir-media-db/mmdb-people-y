@@ -2829,6 +2829,12 @@
     "path": "data/people/p_yasuaki_nakajima.json"
   },
   {
+    "id": "p_yasuaki_shimizu",
+    "name": "Yasuaki Shimizu",
+    "birth_year": 1954,
+    "path": "data/people/p_yasuaki_shimizu.json"
+  },
+  {
     "id": "p_yasue_sato",
     "name": "Yasue Sato",
     "birth_year": 1978,
@@ -3091,6 +3097,12 @@
     "name": "Yasushi Sutō",
     "birth_year": 1967,
     "path": "data/people/p_yasushi_suto.json"
+  },
+  {
+    "id": "p_yasutaka_nakata",
+    "name": "Yasutaka Nakata",
+    "birth_year": 1980,
+    "path": "data/people/p_yasutaka_nakata.json"
   },
   {
     "id": "p_yasutaka_tsutsui",
@@ -3512,6 +3524,12 @@
     "name": "Yehuda Ne'eman",
     "birth_year": 1936,
     "path": "data/people/p_yehuda_neeman.json"
+  },
+  {
+    "id": "p_yehuda_poliker",
+    "name": "Yehuda Poliker",
+    "birth_year": 1950,
+    "path": "data/people/p_yehuda_poliker.json"
   },
   {
     "id": "p_yeji_yeon",
@@ -7772,6 +7790,12 @@
     "path": "data/people/p_yoshio_tsuchiya.json"
   },
   {
+    "id": "p_yoshio_urasawa",
+    "name": "Yoshio Urasawa",
+    "birth_year": 1951,
+    "path": "data/people/p_yoshio_urasawa.json"
+  },
+  {
     "id": "p_yoshira_escarrega",
     "name": "Yoshira Escárrega",
     "path": "data/people/p_yoshira_escarrega.json"
@@ -8515,6 +8539,12 @@
     "name": "Yrjänä Sauros",
     "birth_year": 1959,
     "path": "data/people/p_yrjana_sauros.json"
+  },
+  {
+    "id": "p_ysanne_spevack",
+    "name": "Ysanne Spevack",
+    "birth_year": 1972,
+    "path": "data/people/p_ysanne_spevack.json"
   },
   {
     "id": "p_ystein_karlsen",
@@ -12114,6 +12144,12 @@
     "name": "Yūsuke Tomoi",
     "birth_year": 1980,
     "path": "data/people/p_yusuke_tomoi.json"
+  },
+  {
+    "id": "p_yusuke_watanabe",
+    "name": "Yūsuke Watanabe",
+    "birth_year": 1979,
+    "path": "data/people/p_yusuke_watanabe.json"
   },
   {
     "id": "p_yusuke_yamada",
