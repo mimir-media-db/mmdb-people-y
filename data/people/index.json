@@ -98,6 +98,11 @@
     "path": "data/people/p_yaba_holst.json"
   },
   {
+    "id": "p_yacine_badday",
+    "name": "Yacine Badday",
+    "path": "data/people/p_yacine_badday.json"
+  },
+  {
     "id": "p_yacine_belhousse",
     "name": "Yacine Belhousse",
     "birth_year": 1980,
@@ -2237,6 +2242,11 @@
     "id": "p_yaroslav_voytseshek",
     "name": "Yaroslav Voytseshek",
     "path": "data/people/p_yaroslav_voytseshek.json"
+  },
+  {
+    "id": "p_yaroslav_yarish",
+    "name": "Yaroslav Yarish",
+    "path": "data/people/p_yaroslav_yarish.json"
   },
   {
     "id": "p_yaroslav_zhalnin",
@@ -7881,6 +7891,12 @@
     "path": "data/people/p_yoshimi_ashikawa.json"
   },
   {
+    "id": "p_yoshimi_narita",
+    "name": "Yoshimi Narita",
+    "birth_year": 1973,
+    "path": "data/people/p_yoshimi_narita.json"
+  },
+  {
     "id": "p_yoshimi_tendo",
     "name": "Yoshimi Tendo",
     "birth_year": 1954,
@@ -7942,6 +7958,12 @@
     "id": "p_yoshinori_kumazawa",
     "name": "Yoshinori Kumazawa",
     "path": "data/people/p_yoshinori_kumazawa.json"
+  },
+  {
+    "id": "p_yoshinori_matsugae",
+    "name": "Yoshinori Matsugae",
+    "birth_year": 1999,
+    "path": "data/people/p_yoshinori_matsugae.json"
   },
   {
     "id": "p_yoshinori_muratani",
@@ -8758,6 +8780,12 @@
     "name": "Yrjänä Sauros",
     "birth_year": 1959,
     "path": "data/people/p_yrjana_sauros.json"
+  },
+  {
+    "id": "p_yrsa_daleyward",
+    "name": "Yrsa Daley-Ward",
+    "birth_year": 1988,
+    "path": "data/people/p_yrsa_daleyward.json"
   },
   {
     "id": "p_ysanne_spevack",
