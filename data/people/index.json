@@ -460,6 +460,12 @@
     "path": "data/people/p_yailene_sierra.json"
   },
   {
+    "id": "p_yair_elazar_glotman",
+    "name": "Yair Elazar Glotman",
+    "birth_year": 1986,
+    "path": "data/people/p_yair_elazar_glotman.json"
+  },
+  {
     "id": "p_yair_hochner",
     "name": "Yair Hochner",
     "birth_year": 1975,
@@ -6678,6 +6684,11 @@
     "name": "Yonit Tobi",
     "birth_year": 1984,
     "path": "data/people/p_yonit_tobi.json"
+  },
+  {
+    "id": "p_yonkey",
+    "name": "yonkey",
+    "path": "data/people/p_yonkey.json"
   },
   {
     "id": "p_yony_leyser",
