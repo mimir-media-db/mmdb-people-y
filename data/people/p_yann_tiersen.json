@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_yann_tiersen",
+  "name": "Yann Tiersen",
+  "external_ids": {
+    "wikidata": "Q157256",
+    "imdb": "nm0862961"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
