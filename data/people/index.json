@@ -6382,6 +6382,12 @@
     "path": "data/people/p_yoo_jeyoon.json"
   },
   {
+    "id": "p_yoo_jihyung",
+    "name": "Yoo Ji-hyung",
+    "birth_year": 1947,
+    "path": "data/people/p_yoo_jihyung.json"
+  },
+  {
     "id": "p_yoo_jung",
     "name": "Yoo Jung",
     "birth_year": 1992,
@@ -8260,6 +8266,12 @@
     "path": "data/people/p_youssef_kerkour.json"
   },
   {
+    "id": "p_youssef_maaty",
+    "name": "Youssef Maaty",
+    "birth_year": 1963,
+    "path": "data/people/p_youssef_maaty.json"
+  },
+  {
     "id": "p_youssef_nabil",
     "name": "Youssef Nabil",
     "birth_year": 1972,
@@ -8549,6 +8561,12 @@
     "id": "p_yu_kiki_tianqi",
     "name": "Yu \"Kiki\" Tianqi",
     "path": "data/people/p_yu_kiki_tianqi.json"
+  },
+  {
+    "id": "p_yu_koyama",
+    "name": "Yū Koyama",
+    "birth_year": 1948,
+    "path": "data/people/p_yu_koyama.json"
   },
   {
     "id": "p_yu_koyanagi",
@@ -10062,6 +10080,12 @@
     "path": "data/people/p_yulene_olaizola.json"
   },
   {
+    "id": "p_yuli_dunsky",
+    "name": "Yuli Dunsky",
+    "birth_year": 1922,
+    "path": "data/people/p_yuli_dunsky.json"
+  },
+  {
     "id": "p_yuli_gusman",
     "name": "Yuli Gusman",
     "birth_year": 1943,
@@ -10353,6 +10377,12 @@
     "name": "Yuliya Zimina",
     "birth_year": 1981,
     "path": "data/people/p_yuliya_zimina.json"
+  },
+  {
+    "id": "p_yullwin_mak",
+    "name": "Yull-Win Mak",
+    "birth_year": 1962,
+    "path": "data/people/p_yullwin_mak.json"
   },
   {
     "id": "p_yuly_dubov",
@@ -11562,6 +11592,12 @@
     "path": "data/people/p_yury_yakovlev.json"
   },
   {
+    "id": "p_yusaku_hanakuma",
+    "name": "Yusaku Hanakuma",
+    "birth_year": 1966,
+    "path": "data/people/p_yusaku_hanakuma.json"
+  },
+  {
     "id": "p_yusaku_komori",
     "name": "Yusaku Komori",
     "path": "data/people/p_yusaku_komori.json"
@@ -12505,6 +12541,12 @@
     "name": "Yves Desgagnés",
     "birth_year": 1958,
     "path": "data/people/p_yves_desgagnes.json"
+  },
+  {
+    "id": "p_yves_desrosiers",
+    "name": "Yves Desrosiers",
+    "birth_year": 1952,
+    "path": "data/people/p_yves_desrosiers.json"
   },
   {
     "id": "p_yves_fajnberg",
