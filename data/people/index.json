@@ -3489,6 +3489,12 @@
     "path": "data/people/p_yekaterina_astakhova.json"
   },
   {
+    "id": "p_yekaterina_chemberdzhi",
+    "name": "Yekaterina Chemberdzhi",
+    "birth_year": 1960,
+    "path": "data/people/p_yekaterina_chemberdzhi.json"
+  },
+  {
     "id": "p_yekaterina_golubeva",
     "name": "Yekaterina Golubeva",
     "birth_year": 1966,
@@ -5902,6 +5908,12 @@
     "path": "data/people/p_yoko_nogiwa.json"
   },
   {
+    "id": "p_yoko_ogawa",
+    "name": "Yoko Ogawa",
+    "birth_year": 1962,
+    "path": "data/people/p_yoko_ogawa.json"
+  },
+  {
     "id": "p_yoko_okumura",
     "name": "Yoko Okumura",
     "birth_year": 1987,
@@ -5942,6 +5954,12 @@
     "name": "Yōko Tajitsu",
     "birth_year": 1981,
     "path": "data/people/p_yoko_tajitsu.json"
+  },
+  {
+    "id": "p_yoko_ueno",
+    "name": "Yōko Ueno",
+    "birth_year": 1963,
+    "path": "data/people/p_yoko_ueno.json"
   },
   {
     "id": "p_yoko_yamanaka",
@@ -6232,6 +6250,12 @@
     "name": "Yongyoot Thongkongtoon",
     "birth_year": 1967,
     "path": "data/people/p_yongyoot_thongkongtoon.json"
+  },
+  {
+    "id": "p_yoni_bloch",
+    "name": "Yoni Bloch",
+    "birth_year": 1981,
+    "path": "data/people/p_yoni_bloch.json"
   },
   {
     "id": "p_yoni_bronks",
@@ -7480,6 +7504,12 @@
     "name": "Yoshiko Nakada",
     "birth_year": 1953,
     "path": "data/people/p_yoshiko_nakada.json"
+  },
+  {
+    "id": "p_yoshiko_sembon",
+    "name": "Yoshiko Sembon",
+    "birth_year": 1928,
+    "path": "data/people/p_yoshiko_sembon.json"
   },
   {
     "id": "p_yoshiko_sengen",
@@ -9398,6 +9428,12 @@
     "path": "data/people/p_yukari_tachibana.json"
   },
   {
+    "id": "p_yukari_tatsui",
+    "name": "Yukari Tatsui",
+    "birth_year": 1958,
+    "path": "data/people/p_yukari_tatsui.json"
+  },
+  {
     "id": "p_yuken_yoshida",
     "name": "Yūken Yoshida",
     "birth_year": 1957,
@@ -9689,6 +9725,12 @@
     "name": "Yukie Nakama",
     "birth_year": 1979,
     "path": "data/people/p_yukie_nakama.json"
+  },
+  {
+    "id": "p_yukie_nishimura",
+    "name": "Yukie Nishimura",
+    "birth_year": 1967,
+    "path": "data/people/p_yukie_nishimura.json"
   },
   {
     "id": "p_yukihiko_kageyama",
@@ -10224,6 +10266,11 @@
     "id": "p_yuliia_bieliak",
     "name": "Yuliia Bieliak",
     "path": "data/people/p_yuliia_bieliak.json"
+  },
+  {
+    "id": "p_yuliia_cherniavska",
+    "name": "Yuliia Cherniavska",
+    "path": "data/people/p_yuliia_cherniavska.json"
   },
   {
     "id": "p_yuliia_hontaruk",
@@ -12898,6 +12945,12 @@
     "name": "Øyvind Brandtzæg",
     "birth_year": 1971,
     "path": "data/people/p_yvind_brandtzg.json"
+  },
+  {
+    "id": "p_yvind_engen",
+    "name": "Øyvind Engen",
+    "birth_year": 1975,
+    "path": "data/people/p_yvind_engen.json"
   },
   {
     "id": "p_yvind_fabricius_holm",
