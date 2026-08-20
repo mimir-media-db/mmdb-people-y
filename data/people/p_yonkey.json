@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_yonkey",
+  "name": "yonkey",
+  "external_ids": {
+    "wikidata": "Q106576414",
+    "imdb": "nm15430559"
+  },
+  "last_updated": "2026-08-20"
+}
