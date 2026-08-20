@@ -734,6 +734,11 @@
     "path": "data/people/p_yan_decoppet.json"
   },
   {
+    "id": "p_yan_dongxu",
+    "name": "Yan Dongxu",
+    "path": "data/people/p_yan_dongxu.json"
+  },
+  {
     "id": "p_yan_duffas",
     "name": "Yan Duffas",
     "birth_year": 1971,
@@ -2976,6 +2981,12 @@
     "path": "data/people/p_yasuhisa_furuhara.json"
   },
   {
+    "id": "p_yasuhisa_hara",
+    "name": "Yasuhisa Hara",
+    "birth_year": 1975,
+    "path": "data/people/p_yasuhisa_hara.json"
+  },
+  {
     "id": "p_yasuji_kimura",
     "name": "Yasuji Kimura",
     "birth_year": 1962,
@@ -3385,10 +3396,20 @@
     "path": "data/people/p_ye_jiwon.json"
   },
   {
+    "id": "p_ye_junce",
+    "name": "Ye Junce",
+    "path": "data/people/p_ye_junce.json"
+  },
+  {
     "id": "p_ye_qing",
     "name": "Ye Qing",
     "birth_year": 1988,
     "path": "data/people/p_ye_qing.json"
+  },
+  {
+    "id": "p_ye_ruchang",
+    "name": "Ye Ruchang",
+    "path": "data/people/p_ye_ruchang.json"
   },
   {
     "id": "p_ye_seul",
@@ -5931,6 +5952,12 @@
     "path": "data/people/p_yoichi_higashi.json"
   },
   {
+    "id": "p_yoichi_kato",
+    "name": "Yōichi Katō",
+    "birth_year": 1978,
+    "path": "data/people/p_yoichi_kato.json"
+  },
+  {
     "id": "p_yoichi_komori",
     "name": "Yōichi Komori",
     "birth_year": 1953,
@@ -6468,6 +6495,11 @@
     "name": "Yong Yi",
     "birth_year": 1974,
     "path": "data/people/p_yong_yi.json"
+  },
+  {
+    "id": "p_yonggan_yu",
+    "name": "Yonggan Yu",
+    "path": "data/people/p_yonggan_yu.json"
   },
   {
     "id": "p_yongki_ongestu",
@@ -9474,6 +9506,12 @@
     "path": "data/people/p_yuichi_taniguchi.json"
   },
   {
+    "id": "p_yuichi_tokunaga",
+    "name": "Yūichi Tokunaga",
+    "birth_year": 1975,
+    "path": "data/people/p_yuichi_tokunaga.json"
+  },
+  {
     "id": "p_yuichi_tsuchiya",
     "name": "Yuichi Tsuchiya",
     "birth_year": 1979,
@@ -9651,6 +9689,11 @@
     "name": "Yūji Toriyama",
     "birth_year": 1959,
     "path": "data/people/p_yuji_toriyama.json"
+  },
+  {
+    "id": "p_yuji_uchida",
+    "name": "Yūji Uchida",
+    "path": "data/people/p_yuji_uchida.json"
   },
   {
     "id": "p_yujiro_harumoto",
@@ -11829,6 +11872,16 @@
     "path": "data/people/p_yuriy_izdryk.json"
   },
   {
+    "id": "p_yuriy_karagodin",
+    "name": "Yuriy Karagodin",
+    "path": "data/people/p_yuriy_karagodin.json"
+  },
+  {
+    "id": "p_yuriy_karnovsky",
+    "name": "Yuriy Karnovsky",
+    "path": "data/people/p_yuriy_karnovsky.json"
+  },
+  {
     "id": "p_yuriy_khmelnitskiy",
     "name": "Yuriy Khmelnitskiy",
     "path": "data/people/p_yuriy_khmelnitskiy.json"
@@ -12541,6 +12594,12 @@
     "path": "data/people/p_yutaka_koide.json"
   },
   {
+    "id": "p_yutaka_kuramochi",
+    "name": "Yutaka Kuramochi",
+    "birth_year": 1972,
+    "path": "data/people/p_yutaka_kuramochi.json"
+  },
+  {
     "id": "p_yutaka_kyan",
     "name": "Yutaka Kyan",
     "birth_year": 1985,
@@ -12883,6 +12942,12 @@
     "name": "Yūya Takagawa",
     "birth_year": 1962,
     "path": "data/people/p_yuya_takagawa.json"
+  },
+  {
+    "id": "p_yuya_takahashi",
+    "name": "Yūya Takahashi",
+    "birth_year": 1978,
+    "path": "data/people/p_yuya_takahashi.json"
   },
   {
     "id": "p_yuya_tegoshi",
