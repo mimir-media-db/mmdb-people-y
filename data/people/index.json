@@ -2847,6 +2847,12 @@
     "path": "data/people/p_yasuharu_ishii.json"
   },
   {
+    "id": "p_yasuharu_takanashi",
+    "name": "Yasuharu Takanashi",
+    "birth_year": 1964,
+    "path": "data/people/p_yasuharu_takanashi.json"
+  },
+  {
     "id": "p_yasuhi_nakamura",
     "name": "Yasuhi Nakamura",
     "birth_year": 1972,
@@ -4508,6 +4514,12 @@
     "name": "Yevgeny Rudin",
     "birth_year": 1972,
     "path": "data/people/p_yevgeny_rudin.json"
+  },
+  {
+    "id": "p_yevgeny_shiryeyev",
+    "name": "Yevgeny Shiryeyev",
+    "birth_year": 1943,
+    "path": "data/people/p_yevgeny_shiryeyev.json"
   },
   {
     "id": "p_yevgeny_solomin",
@@ -6300,6 +6312,12 @@
     "path": "data/people/p_yongyoot_thongkongtoon.json"
   },
   {
+    "id": "p_yoni",
+    "name": "Yoni",
+    "birth_year": 1951,
+    "path": "data/people/p_yoni.json"
+  },
+  {
     "id": "p_yoni_bloch",
     "name": "Yoni Bloch",
     "birth_year": 1981,
@@ -6321,6 +6339,12 @@
     "name": "Yoni Goodman",
     "birth_year": 1975,
     "path": "data/people/p_yoni_goodman.json"
+  },
+  {
+    "id": "p_yoni_rechter",
+    "name": "Yoni Rechter",
+    "birth_year": 1951,
+    "path": "data/people/p_yoni_rechter.json"
   },
   {
     "id": "p_yoni_roch",
@@ -7816,6 +7840,12 @@
     "name": "Yoshiyuki Morishita",
     "birth_year": 1962,
     "path": "data/people/p_yoshiyuki_morishita.json"
+  },
+  {
+    "id": "p_yoshiyuki_morita",
+    "name": "Yoshiyuki Morita",
+    "birth_year": 1979,
+    "path": "data/people/p_yoshiyuki_morita.json"
   },
   {
     "id": "p_yoshiyuki_okuyama",
@@ -9341,6 +9371,12 @@
     "path": "data/people/p_yuji_tajiri.json"
   },
   {
+    "id": "p_yuji_toriyama",
+    "name": "Yūji Toriyama",
+    "birth_year": 1959,
+    "path": "data/people/p_yuji_toriyama.json"
+  },
+  {
     "id": "p_yujiro_harumoto",
     "name": "Yūjirō Harumoto",
     "birth_year": 1978,
@@ -9558,6 +9594,12 @@
     "name": "Yūki Kaji",
     "birth_year": 1985,
     "path": "data/people/p_yuki_kaji.json"
+  },
+  {
+    "id": "p_yuki_kajiura",
+    "name": "Yuki Kajiura",
+    "birth_year": 1965,
+    "path": "data/people/p_yuki_kajiura.json"
   },
   {
     "id": "p_yuki_kamiosako",
@@ -11510,6 +11552,12 @@
     "path": "data/people/p_yuriy_moroz.json"
   },
   {
+    "id": "p_yuriy_mykulenko",
+    "name": "Yuriy Mykulenko",
+    "birth_year": 1978,
+    "path": "data/people/p_yuriy_mykulenko.json"
+  },
+  {
     "id": "p_yuriy_nazarov",
     "name": "Yuriy Nazarov",
     "birth_year": 1937,
@@ -11553,6 +11601,11 @@
     "name": "Yuriy Tsurilo",
     "birth_year": 1946,
     "path": "data/people/p_yuriy_tsurilo.json"
+  },
+  {
+    "id": "p_yuriy_yevhenovych_butusov",
+    "name": "Yuriy Yevhenovych Butusov",
+    "path": "data/people/p_yuriy_yevhenovych_butusov.json"
   },
   {
     "id": "p_yuriyan_retriever",
