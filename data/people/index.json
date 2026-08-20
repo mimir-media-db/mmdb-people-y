@@ -1644,6 +1644,12 @@
     "path": "data/people/p_yann_sundberg.json"
   },
   {
+    "id": "p_yann_tiersen",
+    "name": "Yann Tiersen",
+    "birth_year": 1970,
+    "path": "data/people/p_yann_tiersen.json"
+  },
+  {
     "id": "p_yann_tonnar",
     "name": "Yann Tonnar",
     "birth_year": 1975,
@@ -3016,6 +3022,12 @@
     "path": "data/people/p_yasushi_fuchikami.json"
   },
   {
+    "id": "p_yasushi_fukuda",
+    "name": "Yasushi Fukuda",
+    "birth_year": 1961,
+    "path": "data/people/p_yasushi_fukuda.json"
+  },
+  {
     "id": "p_yasushi_kawamura",
     "name": "Yasushi Kawamura",
     "birth_year": 1973,
@@ -3270,6 +3282,12 @@
     "name": "Ye Soo-jung",
     "birth_year": 1955,
     "path": "data/people/p_ye_soojung.json"
+  },
+  {
+    "id": "p_ye_xiaogang",
+    "name": "Ye Xiaogang",
+    "birth_year": 1955,
+    "path": "data/people/p_ye_xiaogang.json"
   },
   {
     "id": "p_ye_ye",
@@ -4414,6 +4432,12 @@
     "path": "data/people/p_yevgeny_redko.json"
   },
   {
+    "id": "p_yevgeny_rudin",
+    "name": "Yevgeny Rudin",
+    "birth_year": 1972,
+    "path": "data/people/p_yevgeny_rudin.json"
+  },
+  {
     "id": "p_yevgeny_solomin",
     "name": "Yevgeny Solomin",
     "birth_year": 1971,
@@ -5061,6 +5085,12 @@
     "name": "Ylli Pepo",
     "birth_year": 1948,
     "path": "data/people/p_ylli_pepo.json"
+  },
+  {
+    "id": "p_ylljet_alicka",
+    "name": "Ylljet Aliçka",
+    "birth_year": 1951,
+    "path": "data/people/p_ylljet_alicka.json"
   },
   {
     "id": "p_yllka_gashi",
@@ -7461,6 +7491,11 @@
     "name": "Yoshino Kimura",
     "birth_year": 1976,
     "path": "data/people/p_yoshino_kimura.json"
+  },
+  {
+    "id": "p_yoshinobu_fujioka",
+    "name": "Yoshinobu Fujioka",
+    "path": "data/people/p_yoshinobu_fujioka.json"
   },
   {
     "id": "p_yoshinobu_nishizaki",
@@ -10721,6 +10756,12 @@
     "name": "Yuri Ancarani",
     "birth_year": 1972,
     "path": "data/people/p_yuri_ancarani.json"
+  },
+  {
+    "id": "p_yuri_arutyunyan",
+    "name": "Yuri Arutyunyan",
+    "birth_year": 1944,
+    "path": "data/people/p_yuri_arutyunyan.json"
   },
   {
     "id": "p_yuri_averov",
