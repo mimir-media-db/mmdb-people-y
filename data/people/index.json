@@ -676,6 +676,11 @@
     "path": "data/people/p_yami_gautam.json"
   },
   {
+    "id": "p_yamil_rezc",
+    "name": "Yamil Rezc",
+    "path": "data/people/p_yamil_rezc.json"
+  },
+  {
     "id": "p_yamile_blanco",
     "name": "Yamilé Blanco",
     "birth_year": 1999,
@@ -4003,6 +4008,11 @@
     "name": "Yelle",
     "birth_year": 1983,
     "path": "data/people/p_yelle.json"
+  },
+  {
+    "id": "p_yelyzaveta_sazonova",
+    "name": "Yelyzaveta Sazonova",
+    "path": "data/people/p_yelyzaveta_sazonova.json"
   },
   {
     "id": "p_yelyzaveta_tatarinova",
@@ -7759,6 +7769,12 @@
     "path": "data/people/p_yoshihiro_suzuki.json"
   },
   {
+    "id": "p_yoshihiro_taguchi",
+    "name": "Yoshihiro Taguchi",
+    "birth_year": 1980,
+    "path": "data/people/p_yoshihiro_taguchi.json"
+  },
+  {
     "id": "p_yoshihiro_takayama",
     "name": "Yoshihiro Takayama",
     "birth_year": 1966,
@@ -10828,6 +10844,11 @@
     "path": "data/people/p_yulia_peresild.json"
   },
   {
+    "id": "p_yulia_salimovska",
+    "name": "Yulia Salimovska",
+    "path": "data/people/p_yulia_salimovska.json"
+  },
+  {
     "id": "p_yulia_savicheva",
     "name": "Yulia Savicheva",
     "birth_year": 1987,
@@ -12096,6 +12117,11 @@
     "name": "Yuriy Korotkov",
     "birth_year": 1955,
     "path": "data/people/p_yuriy_korotkov.json"
+  },
+  {
+    "id": "p_yuriy_kostyuk",
+    "name": "Yuriy Kostyuk",
+    "path": "data/people/p_yuriy_kostyuk.json"
   },
   {
     "id": "p_yuriy_kovaliov",
@@ -13929,6 +13955,12 @@
     "name": "Yvonne Frayssinet",
     "birth_year": 1950,
     "path": "data/people/p_yvonne_frayssinet.json"
+  },
+  {
+    "id": "p_yvonne_gorlach",
+    "name": "Yvonne Görlach",
+    "birth_year": 1966,
+    "path": "data/people/p_yvonne_gorlach.json"
   },
   {
     "id": "p_yvonne_jegede",
