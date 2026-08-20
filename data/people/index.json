@@ -4022,6 +4022,12 @@
     "path": "data/people/p_yenesi_suarez_lopez.json"
   },
   {
+    "id": "p_yeng_constantino",
+    "name": "Yeng Constantino",
+    "birth_year": 1988,
+    "path": "data/people/p_yeng_constantino.json"
+  },
+  {
     "id": "p_yenny_paola_vega",
     "name": "Yenny Paola Vega",
     "birth_year": 1981,
@@ -5181,6 +5187,12 @@
     "path": "data/people/p_yip_tinshing.json"
   },
   {
+    "id": "p_yiruma",
+    "name": "Yiruma",
+    "birth_year": 1978,
+    "path": "data/people/p_yiruma.json"
+  },
+  {
     "id": "p_yishang_zhang",
     "name": "Yishang Zhang",
     "birth_year": 1996,
@@ -5230,6 +5242,12 @@
     "name": "Yıldırım Memişoğlu",
     "birth_year": 1963,
     "path": "data/people/p_yldrm_memisoglu.json"
+  },
+  {
+    "id": "p_yldrm_turker",
+    "name": "Yıldırım Türker",
+    "birth_year": 1957,
+    "path": "data/people/p_yldrm_turker.json"
   },
   {
     "id": "p_yldz_cagr_atiksoy",
@@ -5542,6 +5560,12 @@
     "name": "Yoann Gasiorowski",
     "birth_year": 1988,
     "path": "data/people/p_yoann_gasiorowski.json"
+  },
+  {
+    "id": "p_yoann_lemoine",
+    "name": "Yoann Lemoine",
+    "birth_year": 1983,
+    "path": "data/people/p_yoann_lemoine.json"
   },
   {
     "id": "p_yoann_sover",
@@ -7938,6 +7962,12 @@
     "path": "data/people/p_yoshitaka_naoi.json"
   },
   {
+    "id": "p_yoshitaka_yamaguchi",
+    "name": "Yoshitaka Yamaguchi",
+    "birth_year": 1974,
+    "path": "data/people/p_yoshitaka_yamaguchi.json"
+  },
+  {
     "id": "p_yoshitomo_isozaki",
     "name": "Yoshitomo Isozaki",
     "birth_year": 1998,
@@ -8975,6 +9005,12 @@
     "path": "data/people/p_yua_shiraishi.json"
   },
   {
+    "id": "p_yuan_chiungchiung",
+    "name": "Yuan Ch'iung-ch'iung",
+    "birth_year": 1950,
+    "path": "data/people/p_yuan_chiungchiung.json"
+  },
+  {
     "id": "p_yuan_kuo",
     "name": "Yuan Kuo",
     "birth_year": 1988,
@@ -9328,6 +9364,11 @@
     "name": "Yuichi Kodama",
     "birth_year": 1975,
     "path": "data/people/p_yuichi_kodama.json"
+  },
+  {
+    "id": "p_yuichi_masa_nonaka",
+    "name": "Yuichi \"Masa\" Nonaka",
+    "path": "data/people/p_yuichi_masa_nonaka.json"
   },
   {
     "id": "p_yuichi_nakamura",
@@ -10986,6 +11027,11 @@
     "path": "data/people/p_yun_taeyun.json"
   },
   {
+    "id": "p_yun_wang",
+    "name": "Yun Wang",
+    "path": "data/people/p_yun_wang.json"
+  },
+  {
     "id": "p_yun_yehui",
     "name": "Yun Ye-hui",
     "birth_year": 1968,
@@ -12161,6 +12207,12 @@
     "path": "data/people/p_yusuke_furusawa.json"
   },
   {
+    "id": "p_yusuke_hatano",
+    "name": "Yusuke Hatano",
+    "birth_year": 1985,
+    "path": "data/people/p_yusuke_hatano.json"
+  },
+  {
     "id": "p_yusuke_hayashi",
     "name": "Yūsuke Hayashi",
     "path": "data/people/p_yusuke_hayashi.json"
@@ -12268,6 +12320,11 @@
     "name": "Yūsuke Tomoi",
     "birth_year": 1980,
     "path": "data/people/p_yusuke_tomoi.json"
+  },
+  {
+    "id": "p_yusuke_tsutsumi",
+    "name": "Yusuke Tsutsumi",
+    "path": "data/people/p_yusuke_tsutsumi.json"
   },
   {
     "id": "p_yusuke_watanabe",
