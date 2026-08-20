@@ -1872,6 +1872,12 @@
     "path": "data/people/p_yannis_veslemes.json"
   },
   {
+    "id": "p_yannis_xanthoulis",
+    "name": "Yannis Xanthoulis",
+    "birth_year": 1947,
+    "path": "data/people/p_yannis_xanthoulis.json"
+  },
+  {
     "id": "p_yannis_youlountas",
     "name": "Yannis Youlountas",
     "birth_year": 1970,
@@ -2883,6 +2889,12 @@
     "path": "data/people/p_yasuhiko_shimizu.json"
   },
   {
+    "id": "p_yasuhiko_takiguchi",
+    "name": "Yasuhiko Takiguchi",
+    "birth_year": 1924,
+    "path": "data/people/p_yasuhiko_takiguchi.json"
+  },
+  {
     "id": "p_yasuhiro_hamano",
     "name": "Yasuhiro Hamano",
     "birth_year": 1941,
@@ -2904,6 +2916,12 @@
     "name": "Yasuhiro Kobayashi",
     "birth_year": 1959,
     "path": "data/people/p_yasuhiro_kobayashi.json"
+  },
+  {
+    "id": "p_yasuhiro_morinaga",
+    "name": "Yasuhiro Morinaga",
+    "birth_year": 1980,
+    "path": "data/people/p_yasuhiro_morinaga.json"
   },
   {
     "id": "p_yasuhiro_yoshida",
@@ -6148,6 +6166,12 @@
     "name": "Yolanda Sey Asare",
     "birth_year": 1990,
     "path": "data/people/p_yolanda_sey_asare.json"
+  },
+  {
+    "id": "p_yolanda_sobero",
+    "name": "Yolanda Sobero",
+    "birth_year": 1959,
+    "path": "data/people/p_yolanda_sobero.json"
   },
   {
     "id": "p_yolanda_wood",
@@ -10070,6 +10094,12 @@
     "id": "p_yukiya_onishi",
     "name": "Yukiya Ōnishi",
     "path": "data/people/p_yukiya_onishi.json"
+  },
+  {
+    "id": "p_yukiya_shoji",
+    "name": "Yukiya Shōji",
+    "birth_year": 1961,
+    "path": "data/people/p_yukiya_shoji.json"
   },
   {
     "id": "p_yukiyoshi_ozawa",
