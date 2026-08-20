@@ -229,6 +229,11 @@
     "path": "data/people/p_yael_belicha.json"
   },
   {
+    "id": "p_yael_bitton",
+    "name": "Yael Bitton",
+    "path": "data/people/p_yael_bitton.json"
+  },
+  {
     "id": "p_yael_boon",
     "name": "Yaël Boon",
     "birth_year": 1980,
@@ -275,6 +280,12 @@
     "name": "Yael Katzir",
     "birth_year": 1942,
     "path": "data/people/p_yael_katzir.json"
+  },
+  {
+    "id": "p_yael_langmann",
+    "name": "Yaël Langmann",
+    "birth_year": 1979,
+    "path": "data/people/p_yael_langmann.json"
   },
   {
     "id": "p_yael_levental",
@@ -2762,6 +2773,12 @@
     "path": "data/people/p_yasser_abdel_rahman.json"
   },
   {
+    "id": "p_yasser_alhabib",
+    "name": "Yasser Al-Habib",
+    "birth_year": 1979,
+    "path": "data/people/p_yasser_alhabib.json"
+  },
+  {
     "id": "p_yasser_ali_maher",
     "name": "Yasser Ali Maher",
     "birth_year": 1958,
@@ -4605,6 +4622,12 @@
     "path": "data/people/p_yevgeny_mironov.json"
   },
   {
+    "id": "p_yevgeny_mitko",
+    "name": "Yevgeny Mitko",
+    "birth_year": 1931,
+    "path": "data/people/p_yevgeny_mitko.json"
+  },
+  {
     "id": "p_yevgeny_mundum",
     "name": "Yevgeny Mundum",
     "birth_year": 1962,
@@ -4820,6 +4843,11 @@
     "name": "Yevheniya Hladiy",
     "birth_year": 1982,
     "path": "data/people/p_yevheniya_hladiy.json"
+  },
+  {
+    "id": "p_yevheniya_motorevska",
+    "name": "Yevheniya Motorevska",
+    "path": "data/people/p_yevheniya_motorevska.json"
   },
   {
     "id": "p_yevsey_yevseyev",
@@ -10091,6 +10119,12 @@
     "path": "data/people/p_yuki_sakurai.json"
   },
   {
+    "id": "p_yuki_shimizu",
+    "name": "Yūki Shimizu",
+    "birth_year": 1954,
+    "path": "data/people/p_yuki_shimizu.json"
+  },
+  {
     "id": "p_yuki_shioya",
     "name": "Yuki Shioya",
     "birth_year": 2003,
@@ -12538,6 +12572,12 @@
     "name": "Yusuke Yamamoto",
     "birth_year": 1988,
     "path": "data/people/p_yusuke_yamamoto.json"
+  },
+  {
+    "id": "p_yuta_bando",
+    "name": "Yūta Bandō",
+    "birth_year": 1991,
+    "path": "data/people/p_yuta_bando.json"
   },
   {
     "id": "p_yuta_chatani",
