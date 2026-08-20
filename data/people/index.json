@@ -995,6 +995,12 @@
     "path": "data/people/p_yandy_laurens.json"
   },
   {
+    "id": "p_yang_bangean",
+    "name": "Yang Bang-ean",
+    "birth_year": 1959,
+    "path": "data/people/p_yang_bangean.json"
+  },
+  {
     "id": "p_yang_caiyu",
     "name": "Yang Caiyu",
     "birth_year": 1992,
@@ -1433,6 +1439,12 @@
     "id": "p_yanman_li",
     "name": "Yanman Li",
     "path": "data/people/p_yanman_li.json"
+  },
+  {
+    "id": "p_yann_apperry",
+    "name": "Yann Apperry",
+    "birth_year": 1972,
+    "path": "data/people/p_yann_apperry.json"
   },
   {
     "id": "p_yann_arthusbertrand",
@@ -2504,6 +2516,12 @@
     "path": "data/people/p_yasmin_karssing.json"
   },
   {
+    "id": "p_yasmin_levy",
+    "name": "Yasmin Levy",
+    "birth_year": 1975,
+    "path": "data/people/p_yasmin_levy.json"
+  },
+  {
     "id": "p_yasmin_max",
     "name": "Yasmin Max",
     "path": "data/people/p_yasmin_max.json"
@@ -2675,6 +2693,12 @@
     "id": "p_yassen_grigorov",
     "name": "Yassen Grigorov",
     "path": "data/people/p_yassen_grigorov.json"
+  },
+  {
+    "id": "p_yasser_abdel_rahman",
+    "name": "Yasser Abdel Rahman",
+    "birth_year": 1961,
+    "path": "data/people/p_yasser_abdel_rahman.json"
   },
   {
     "id": "p_yasser_ali_maher",
@@ -4254,6 +4278,12 @@
     "path": "data/people/p_yevgeni_lebedev.json"
   },
   {
+    "id": "p_yevgeni_sitokhin",
+    "name": "Yevgeni Sitokhin",
+    "birth_year": 1959,
+    "path": "data/people/p_yevgeni_sitokhin.json"
+  },
+  {
     "id": "p_yevgenia_dobrovolskaya",
     "name": "Yevgenia Dobrovolskaya",
     "birth_year": 1964,
@@ -4436,6 +4466,12 @@
     "name": "Yevgeny Lavrentyev",
     "birth_year": 1972,
     "path": "data/people/p_yevgeny_lavrentyev.json"
+  },
+  {
+    "id": "p_yevgeny_mesyatsev",
+    "name": "Yevgeny Mesyatsev",
+    "birth_year": 1938,
+    "path": "data/people/p_yevgeny_mesyatsev.json"
   },
   {
     "id": "p_yevgeny_mironov",
@@ -4703,6 +4739,12 @@
     "name": "Yhemolee",
     "birth_year": 1993,
     "path": "data/people/p_yhemolee.json"
+  },
+  {
+    "id": "p_yi_chongjun",
+    "name": "Yi Chong-jun",
+    "birth_year": 1939,
+    "path": "data/people/p_yi_chongjun.json"
   },
   {
     "id": "p_yi_chunde",
@@ -5086,6 +5128,12 @@
     "id": "p_yiuwing_lam",
     "name": "Yiuwing Lam",
     "path": "data/people/p_yiuwing_lam.json"
+  },
+  {
+    "id": "p_yiyun_li",
+    "name": "Yiyun Li",
+    "birth_year": 1972,
+    "path": "data/people/p_yiyun_li.json"
   },
   {
     "id": "p_yldrm_memisoglu",
@@ -7181,6 +7229,12 @@
     "path": "data/people/p_yoshi_oida.json"
   },
   {
+    "id": "p_yoshi_sade",
+    "name": "Yoshi Sade",
+    "birth_year": 1956,
+    "path": "data/people/p_yoshi_sade.json"
+  },
+  {
     "id": "p_yoshi_sako",
     "name": "Yoshi Sakō",
     "birth_year": 1958,
@@ -9269,6 +9323,12 @@
     "path": "data/people/p_yuji_okumoto.json"
   },
   {
+    "id": "p_yuji_sakamoto",
+    "name": "Yūji Sakamoto",
+    "birth_year": 1967,
+    "path": "data/people/p_yuji_sakamoto.json"
+  },
+  {
     "id": "p_yuji_shimomura",
     "name": "Yūji Shimomura",
     "birth_year": 1972,
@@ -11150,6 +11210,12 @@
     "path": "data/people/p_yuri_suri.json"
   },
   {
+    "id": "p_yuri_timoshenkov",
+    "name": "Yuri Timoshenkov",
+    "birth_year": 1965,
+    "path": "data/people/p_yuri_timoshenkov.json"
+  },
+  {
     "id": "p_yuri_tsunematsu",
     "name": "Yuri Tsunematsu",
     "birth_year": 1998,
@@ -11565,6 +11631,12 @@
     "name": "Yury Itskov",
     "birth_year": 1950,
     "path": "data/people/p_yury_itskov.json"
+  },
+  {
+    "id": "p_yury_klavdiyev",
+    "name": "Yury Klavdiyev",
+    "birth_year": 1974,
+    "path": "data/people/p_yury_klavdiyev.json"
   },
   {
     "id": "p_yury_kuznetsov",
@@ -12024,6 +12096,11 @@
     "name": "Yūta Yamazaki",
     "birth_year": 1981,
     "path": "data/people/p_yuta_yamazaki.json"
+  },
+  {
+    "id": "p_yutaka_fukuoka",
+    "name": "Yutaka Fukuoka",
+    "path": "data/people/p_yutaka_fukuoka.json"
   },
   {
     "id": "p_yutaka_ikejima",
@@ -12653,6 +12730,12 @@
     "name": "Yves Jouffroy",
     "birth_year": 1954,
     "path": "data/people/p_yves_jouffroy.json"
+  },
+  {
+    "id": "p_yves_laferriere",
+    "name": "Yves Laferrière",
+    "birth_year": 1942,
+    "path": "data/people/p_yves_laferriere.json"
   },
   {
     "id": "p_yves_lafontaine",
