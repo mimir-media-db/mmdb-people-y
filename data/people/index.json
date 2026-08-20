@@ -5761,6 +5761,11 @@
     "path": "data/people/p_yogesh_bharadwaj.json"
   },
   {
+    "id": "p_yogesh_chandekar",
+    "name": "Yogesh Chandekar",
+    "path": "data/people/p_yogesh_chandekar.json"
+  },
+  {
     "id": "p_yogesh_dattatraya_gosavi",
     "name": "Yogesh Dattatraya Gosavi",
     "birth_year": 1981,
@@ -6927,6 +6932,12 @@
     "path": "data/people/p_yoon_hyeryeom.json"
   },
   {
+    "id": "p_yoon_ilsang",
+    "name": "Yoon Il-sang",
+    "birth_year": 1974,
+    "path": "data/people/p_yoon_ilsang.json"
+  },
+  {
     "id": "p_yoon_jaechan",
     "name": "Yoon Jae-chan",
     "birth_year": 1999,
@@ -7698,6 +7709,12 @@
     "name": "Yoshikazu Okada",
     "birth_year": 1959,
     "path": "data/people/p_yoshikazu_okada.json"
+  },
+  {
+    "id": "p_yoshikazu_sugiyama",
+    "name": "Yoshikazu Sugiyama",
+    "birth_year": 1970,
+    "path": "data/people/p_yoshikazu_sugiyama.json"
   },
   {
     "id": "p_yoshikazu_suo",
@@ -9903,6 +9920,11 @@
     "path": "data/people/p_yuki_kohara.json"
   },
   {
+    "id": "p_yuki_kumagai",
+    "name": "Yūki Kumagai",
+    "path": "data/people/p_yuki_kumagai.json"
+  },
+  {
     "id": "p_yuki_kura",
     "name": "Yūki Kura",
     "birth_year": 1999,
@@ -10808,6 +10830,12 @@
     "name": "Yuliya Topolnitskaya",
     "birth_year": 1991,
     "path": "data/people/p_yuliya_topolnitskaya.json"
+  },
+  {
+    "id": "p_yuliya_tupikina",
+    "name": "Yuliya Tupikina",
+    "birth_year": 1978,
+    "path": "data/people/p_yuliya_tupikina.json"
   },
   {
     "id": "p_yuliya_zimina",
@@ -12810,6 +12838,11 @@
     "path": "data/people/p_yuvraj_singh.json"
   },
   {
+    "id": "p_yuwono_sigit",
+    "name": "Yuwono Sigit",
+    "path": "data/people/p_yuwono_sigit.json"
+  },
+  {
     "id": "p_yuya_endo",
     "name": "Yuya Endo",
     "birth_year": 1987,
@@ -13116,6 +13149,11 @@
     "name": "Yves Gasc",
     "birth_year": 1930,
     "path": "data/people/p_yves_gasc.json"
+  },
+  {
+    "id": "p_yves_gourmeur",
+    "name": "Yves Gourmeur",
+    "path": "data/people/p_yves_gourmeur.json"
   },
   {
     "id": "p_yves_hanchar",
