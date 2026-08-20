@@ -4509,6 +4509,12 @@
     "path": "data/people/p_yevhen_halych.json"
   },
   {
+    "id": "p_yevhen_holubenko",
+    "name": "Yevhen Holubenko",
+    "birth_year": 1956,
+    "path": "data/people/p_yevhen_holubenko.json"
+  },
+  {
     "id": "p_yevhen_hres",
     "name": "Yevhen Hres",
     "path": "data/people/p_yevhen_hres.json"
@@ -5289,6 +5295,12 @@
     "path": "data/people/p_yo_takahashi.json"
   },
   {
+    "id": "p_yo_tsuji",
+    "name": "Yō Tsuji",
+    "birth_year": 1962,
+    "path": "data/people/p_yo_tsuji.json"
+  },
+  {
     "id": "p_yo_yang",
     "name": "Yo Yang",
     "birth_year": 1982,
@@ -5798,6 +5810,12 @@
     "id": "p_yoko_ide",
     "name": "Yoko Ide",
     "path": "data/people/p_yoko_ide.json"
+  },
+  {
+    "id": "p_yoko_kanno",
+    "name": "Yoko Kanno",
+    "birth_year": 1963,
+    "path": "data/people/p_yoko_kanno.json"
   },
   {
     "id": "p_yoko_kondo",
@@ -6677,6 +6695,12 @@
     "name": "Yoon Jong-chan",
     "birth_year": 1962,
     "path": "data/people/p_yoon_jongchan.json"
+  },
+  {
+    "id": "p_yoon_jongshin",
+    "name": "Yoon Jong-shin",
+    "birth_year": 1969,
+    "path": "data/people/p_yoon_jongshin.json"
   },
   {
     "id": "p_yoon_joongboo",
@@ -7606,6 +7630,12 @@
     "name": "Yoshitaka Amano",
     "birth_year": 1952,
     "path": "data/people/p_yoshitaka_amano.json"
+  },
+  {
+    "id": "p_yoshitaka_asama",
+    "name": "Yoshitaka Asama",
+    "birth_year": 1940,
+    "path": "data/people/p_yoshitaka_asama.json"
   },
   {
     "id": "p_yoshitaka_kamada",
@@ -9065,6 +9095,12 @@
     "path": "data/people/p_yuji_abe.json"
   },
   {
+    "id": "p_yuji_aoki",
+    "name": "Yūji Aoki",
+    "birth_year": 1945,
+    "path": "data/people/p_yuji_aoki.json"
+  },
+  {
     "id": "p_yuji_ayabe",
     "name": "Yūji Ayabe",
     "birth_year": 1977,
@@ -10257,6 +10293,12 @@
     "name": "Yuliya Zimina",
     "birth_year": 1981,
     "path": "data/people/p_yuliya_zimina.json"
+  },
+  {
+    "id": "p_yuly_dubov",
+    "name": "Yuly Dubov",
+    "birth_year": 1948,
+    "path": "data/people/p_yuly_dubov.json"
   },
   {
     "id": "p_yulya_men",
@@ -12000,6 +12042,12 @@
     "path": "data/people/p_yuval_diskin.json"
   },
   {
+    "id": "p_yuval_friedman",
+    "name": "Yuval Friedman",
+    "birth_year": 1971,
+    "path": "data/people/p_yuval_friedman.json"
+  },
+  {
     "id": "p_yuval_gonen",
     "name": "Yuval Gonen",
     "birth_year": 1993,
@@ -12627,6 +12675,12 @@
     "name": "Yvette Angulo",
     "birth_year": 1984,
     "path": "data/people/p_yvette_angulo.json"
+  },
+  {
+    "id": "p_yvette_biro",
+    "name": "Yvette Bíró",
+    "birth_year": 1930,
+    "path": "data/people/p_yvette_biro.json"
   },
   {
     "id": "p_yvette_cason",
