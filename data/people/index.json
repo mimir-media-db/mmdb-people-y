@@ -3105,6 +3105,12 @@
     "path": "data/people/p_yasutake_torii.json"
   },
   {
+    "id": "p_yasutoshi_murakawa",
+    "name": "Yasutoshi Murakawa",
+    "birth_year": 1971,
+    "path": "data/people/p_yasutoshi_murakawa.json"
+  },
+  {
     "id": "p_yasuyuki_hirata",
     "name": "Yasuyuki Hirata",
     "birth_year": 1958,
@@ -5505,6 +5511,12 @@
     "path": "data/people/p_yoav_himan.json"
   },
   {
+    "id": "p_yoav_katz",
+    "name": "Yoav Katz",
+    "birth_year": 1965,
+    "path": "data/people/p_yoav_katz.json"
+  },
+  {
     "id": "p_yoav_keren",
     "name": "Yoav Keren",
     "path": "data/people/p_yoav_keren.json"
@@ -7465,6 +7477,12 @@
     "path": "data/people/p_yoshiho_fukuoka.json"
   },
   {
+    "id": "p_yoshiie_goda",
+    "name": "Yoshiie Gōda",
+    "birth_year": 1958,
+    "path": "data/people/p_yoshiie_goda.json"
+  },
+  {
     "id": "p_yoshikatsu_fujiki",
     "name": "Yoshikatsu Fujiki",
     "birth_year": 1964,
@@ -8475,6 +8493,12 @@
     "path": "data/people/p_yozaburo_ito.json"
   },
   {
+    "id": "p_yozo_tanaka",
+    "name": "Yōzō Tanaka",
+    "birth_year": 1939,
+    "path": "data/people/p_yozo_tanaka.json"
+  },
+  {
     "id": "p_yozoh",
     "name": "Yozoh",
     "birth_year": 1981,
@@ -9251,6 +9275,12 @@
     "path": "data/people/p_yuichiro_sakashita.json"
   },
   {
+    "id": "p_yuichiro_takeda",
+    "name": "Yūichirō Takeda",
+    "birth_year": 1968,
+    "path": "data/people/p_yuichiro_takeda.json"
+  },
+  {
     "id": "p_yuiga_danzuka",
     "name": "Yuiga Danzuka",
     "birth_year": 1997,
@@ -9321,6 +9351,12 @@
     "name": "Yūji Kishimoto",
     "birth_year": 1970,
     "path": "data/people/p_yuji_kishimoto.json"
+  },
+  {
+    "id": "p_yuji_kobayashi",
+    "name": "Yūji Kobayashi",
+    "birth_year": 1979,
+    "path": "data/people/p_yuji_kobayashi.json"
   },
   {
     "id": "p_yuji_nakae",
@@ -11690,6 +11726,12 @@
     "name": "Yury Klavdiyev",
     "birth_year": 1974,
     "path": "data/people/p_yury_klavdiyev.json"
+  },
+  {
+    "id": "p_yury_krasavin",
+    "name": "Yury Krasavin",
+    "birth_year": 1953,
+    "path": "data/people/p_yury_krasavin.json"
   },
   {
     "id": "p_yury_kuznetsov",
