@@ -520,6 +520,12 @@
     "path": "data/people/p_yajuro_bando.json"
   },
   {
+    "id": "p_yakamoto_kotzuga",
+    "name": "Yakamoto Kotzuga",
+    "birth_year": 1994,
+    "path": "data/people/p_yakamoto_kotzuga.json"
+  },
+  {
     "id": "p_yaki_reisner",
     "name": "Yaki Reisner",
     "birth_year": 1978,
@@ -2250,6 +2256,11 @@
     "path": "data/people/p_yaroslav_popov.json"
   },
   {
+    "id": "p_yaroslav_sten",
+    "name": "Yaroslav Sten",
+    "path": "data/people/p_yaroslav_sten.json"
+  },
+  {
     "id": "p_yaroslav_voytseshek",
     "name": "Yaroslav Voytseshek",
     "path": "data/people/p_yaroslav_voytseshek.json"
@@ -2643,6 +2654,12 @@
     "name": "Yasmina Khadra",
     "birth_year": 1955,
     "path": "data/people/p_yasmina_khadra.json"
+  },
+  {
+    "id": "p_yasmina_ninifaucon",
+    "name": "Yasmina Nini-Faucon",
+    "birth_year": 1959,
+    "path": "data/people/p_yasmina_ninifaucon.json"
   },
   {
     "id": "p_yasmina_reza",
@@ -4794,6 +4811,11 @@
     "path": "data/people/p_yevhen_papernyi.json"
   },
   {
+    "id": "p_yevhen_polozhii",
+    "name": "Yevhen Polozhii",
+    "path": "data/people/p_yevhen_polozhii.json"
+  },
+  {
     "id": "p_yevhen_sinchukov",
     "name": "Yevhen Sinchukov",
     "birth_year": 1974,
@@ -5902,6 +5924,12 @@
     "name": "Yograj Singh",
     "birth_year": 1958,
     "path": "data/people/p_yograj_singh.json"
+  },
+  {
+    "id": "p_yogurinha_borova",
+    "name": "Yogurinha Borova",
+    "birth_year": 1969,
+    "path": "data/people/p_yogurinha_borova.json"
   },
   {
     "id": "p_yoha_galvez",
@@ -7646,6 +7674,12 @@
     "path": "data/people/p_yoshihiro_fukagawa.json"
   },
   {
+    "id": "p_yoshihiro_hanno",
+    "name": "Yoshihiro Hanno",
+    "birth_year": 1967,
+    "path": "data/people/p_yoshihiro_hanno.json"
+  },
+  {
     "id": "p_yoshihiro_hoshino",
     "name": "Yoshihiro Hoshino",
     "path": "data/people/p_yoshihiro_hoshino.json"
@@ -7851,6 +7885,12 @@
     "name": "Yoshiko Miyazaki",
     "birth_year": 1958,
     "path": "data/people/p_yoshiko_miyazaki.json"
+  },
+  {
+    "id": "p_yoshiko_morishita",
+    "name": "Yoshiko Morishita",
+    "birth_year": 1971,
+    "path": "data/people/p_yoshiko_morishita.json"
   },
   {
     "id": "p_yoshiko_nakada",
@@ -8311,6 +8351,11 @@
     "name": "Yōsuke Kubozuka",
     "birth_year": 1979,
     "path": "data/people/p_yosuke_kubozuka.json"
+  },
+  {
+    "id": "p_yosuke_masaike",
+    "name": "Yōsuke Masaike",
+    "path": "data/people/p_yosuke_masaike.json"
   },
   {
     "id": "p_yosuke_nakagawa",
