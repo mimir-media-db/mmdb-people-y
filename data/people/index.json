@@ -4741,6 +4741,12 @@
     "path": "data/people/p_yevgeny_zvezdakov.json"
   },
   {
+    "id": "p_yevhen_filatov",
+    "name": "Yevhen Filatov",
+    "birth_year": 1983,
+    "path": "data/people/p_yevhen_filatov.json"
+  },
+  {
     "id": "p_yevhen_grygoriev",
     "name": "Yevhen Grygoriev",
     "path": "data/people/p_yevhen_grygoriev.json"
@@ -8157,6 +8163,12 @@
     "path": "data/people/p_yoshitaka_yamaguchi.json"
   },
   {
+    "id": "p_yoshitatasu_yamada",
+    "name": "Yoshitatasu Yamada",
+    "birth_year": 1976,
+    "path": "data/people/p_yoshitatasu_yamada.json"
+  },
+  {
     "id": "p_yoshitomo_isozaki",
     "name": "Yoshitomo Isozaki",
     "birth_year": 1998,
@@ -8861,6 +8873,12 @@
     "path": "data/people/p_yrsa_daleyward.json"
   },
   {
+    "id": "p_yrsa_sigurardottir",
+    "name": "Yrsa Sigurðardóttir",
+    "birth_year": 1963,
+    "path": "data/people/p_yrsa_sigurardottir.json"
+  },
+  {
     "id": "p_ysanne_spevack",
     "name": "Ysanne Spevack",
     "birth_year": 1972,
@@ -8883,6 +8901,12 @@
     "name": "Øystein Røger",
     "birth_year": 1963,
     "path": "data/people/p_ystein_rger.json"
+  },
+  {
+    "id": "p_ystein_sevag",
+    "name": "Øystein Sevåg",
+    "birth_year": 1957,
+    "path": "data/people/p_ystein_sevag.json"
   },
   {
     "id": "p_ystein_stene",
@@ -11534,6 +11558,12 @@
     "path": "data/people/p_yuri_averov.json"
   },
   {
+    "id": "p_yuri_baranovsky",
+    "name": "Yuri Baranovsky",
+    "birth_year": 1982,
+    "path": "data/people/p_yuri_baranovsky.json"
+  },
+  {
     "id": "p_yuri_bradac",
     "name": "Yuri Bradac",
     "birth_year": 1973,
@@ -11821,6 +11851,11 @@
     "name": "Yurii Horbunov",
     "birth_year": 1970,
     "path": "data/people/p_yurii_horbunov.json"
+  },
+  {
+    "id": "p_yurii_petrov",
+    "name": "Yurii Petrov",
+    "path": "data/people/p_yurii_petrov.json"
   },
   {
     "id": "p_yurii_povoroznyk",
@@ -12446,6 +12481,12 @@
     "name": "Yusuf Mansur",
     "birth_year": 1976,
     "path": "data/people/p_yusuf_mansur.json"
+  },
+  {
+    "id": "p_yusuf_othman",
+    "name": "Yusuf Othman",
+    "birth_year": 1990,
+    "path": "data/people/p_yusuf_othman.json"
   },
   {
     "id": "p_yusuf_ozkan",
