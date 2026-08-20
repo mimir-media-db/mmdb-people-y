@@ -903,6 +903,11 @@
     "path": "data/people/p_yana_novikova.json"
   },
   {
+    "id": "p_yana_ponomarenko",
+    "name": "Yana Ponomarenko",
+    "path": "data/people/p_yana_ponomarenko.json"
+  },
+  {
     "id": "p_yana_poplavskaya",
     "name": "Yana Poplavskaya",
     "birth_year": 1967,
@@ -2222,6 +2227,11 @@
     "name": "Yaroslav Popov",
     "birth_year": 1972,
     "path": "data/people/p_yaroslav_popov.json"
+  },
+  {
+    "id": "p_yaroslav_voytseshek",
+    "name": "Yaroslav Voytseshek",
+    "path": "data/people/p_yaroslav_voytseshek.json"
   },
   {
     "id": "p_yaroslav_zhalnin",
@@ -4781,6 +4791,12 @@
     "path": "data/people/p_yevheniya_hladiy.json"
   },
   {
+    "id": "p_yevsey_yevseyev",
+    "name": "Yevsey Yevseyev",
+    "birth_year": 1951,
+    "path": "data/people/p_yevsey_yevseyev.json"
+  },
+  {
     "id": "p_yew_kwang_han",
     "name": "Yew Kwang Han",
     "path": "data/people/p_yew_kwang_han.json"
@@ -4980,6 +4996,12 @@
     "name": "Yiğit Ege Yazar",
     "birth_year": 2000,
     "path": "data/people/p_yigit_ege_yazar.json"
+  },
+  {
+    "id": "p_yigit_guralp",
+    "name": "Yiğit Güralp",
+    "birth_year": 1977,
+    "path": "data/people/p_yigit_guralp.json"
   },
   {
     "id": "p_yigit_kirazc",
@@ -6039,6 +6061,11 @@
     "path": "data/people/p_yoko_ide.json"
   },
   {
+    "id": "p_yoko_izumisawa",
+    "name": "Yōko Izumisawa",
+    "path": "data/people/p_yoko_izumisawa.json"
+  },
+  {
     "id": "p_yoko_kanno",
     "name": "Yoko Kanno",
     "birth_year": 1963,
@@ -6394,6 +6421,12 @@
     "name": "Yonda Thomas",
     "birth_year": 1985,
     "path": "data/people/p_yonda_thomas.json"
+  },
+  {
+    "id": "p_yonderboi",
+    "name": "Yonderboi",
+    "birth_year": 1980,
+    "path": "data/people/p_yonderboi.json"
   },
   {
     "id": "p_yoneko_matsukane",
@@ -7169,6 +7202,12 @@
     "name": "Yor Milano",
     "birth_year": 1938,
     "path": "data/people/p_yor_milano.json"
+  },
+  {
+    "id": "p_yoram_chazan",
+    "name": "Yoram Chazan",
+    "birth_year": 1970,
+    "path": "data/people/p_yoram_chazan.json"
   },
   {
     "id": "p_yoram_globus",
@@ -9441,6 +9480,12 @@
     "path": "data/people/p_yuichiro_iwaki.json"
   },
   {
+    "id": "p_yuichiro_nakanishi",
+    "name": "Yūichirō Nakanishi",
+    "birth_year": 1974,
+    "path": "data/people/p_yuichiro_nakanishi.json"
+  },
+  {
     "id": "p_yuichiro_saito",
     "name": "Yūichirō Saitō",
     "birth_year": 1976,
@@ -10290,6 +10335,12 @@
     "name": "Yuko Ito",
     "birth_year": 1974,
     "path": "data/people/p_yuko_ito.json"
+  },
+  {
+    "id": "p_yuko_iwashita",
+    "name": "Yūko Iwashita",
+    "birth_year": 1973,
+    "path": "data/people/p_yuko_iwashita.json"
   },
   {
     "id": "p_yuko_kaida",
@@ -11227,6 +11278,12 @@
     "id": "p_yunus_sajawal",
     "name": "Yunus Sajawal",
     "path": "data/people/p_yunus_sajawal.json"
+  },
+  {
+    "id": "p_yupeng_chen",
+    "name": "Yu-Peng Chen",
+    "birth_year": 1984,
+    "path": "data/people/p_yupeng_chen.json"
   },
   {
     "id": "p_yuqi_kang",
@@ -12450,6 +12507,12 @@
     "path": "data/people/p_yutaka_ikejima.json"
   },
   {
+    "id": "p_yutaka_koide",
+    "name": "Yutaka Koide",
+    "birth_year": 1973,
+    "path": "data/people/p_yutaka_koide.json"
+  },
+  {
     "id": "p_yutaka_kyan",
     "name": "Yutaka Kyan",
     "birth_year": 1985,
@@ -12505,6 +12568,12 @@
     "name": "Yutaka Tsuchiya",
     "birth_year": 1966,
     "path": "data/people/p_yutaka_tsuchiya.json"
+  },
+  {
+    "id": "p_yutaka_yamada",
+    "name": "Yutaka Yamada",
+    "birth_year": 1989,
+    "path": "data/people/p_yutaka_yamada.json"
   },
   {
     "id": "p_yutaka_yamazaki",
@@ -13357,6 +13426,12 @@
     "name": "Yvette Petit",
     "birth_year": 1937,
     "path": "data/people/p_yvette_petit.json"
+  },
+  {
+    "id": "p_yvette_tan",
+    "name": "Yvette Tan",
+    "birth_year": 1975,
+    "path": "data/people/p_yvette_tan.json"
   },
   {
     "id": "p_yvette_yates",
