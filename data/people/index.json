@@ -3424,6 +3424,12 @@
     "path": "data/people/p_yehoram_gaon.json"
   },
   {
+    "id": "p_yehoshua_kenaz",
+    "name": "Yehoshua Kenaz",
+    "birth_year": 1937,
+    "path": "data/people/p_yehoshua_kenaz.json"
+  },
+  {
     "id": "p_yehuda_efroni",
     "name": "Yehuda Efroni",
     "birth_year": 1931,
@@ -4354,6 +4360,12 @@
     "path": "data/people/p_yevgeny_filatov.json"
   },
   {
+    "id": "p_yevgeny_fyodorov",
+    "name": "Yevgeny Fyodorov",
+    "birth_year": 1965,
+    "path": "data/people/p_yevgeny_fyodorov.json"
+  },
+  {
     "id": "p_yevgeny_grigoryev",
     "name": "Yevgeny Grigoryev",
     "birth_year": 1979,
@@ -5005,6 +5017,12 @@
     "name": "Yip Sai Wing",
     "birth_year": 1963,
     "path": "data/people/p_yip_sai_wing.json"
+  },
+  {
+    "id": "p_yip_tinshing",
+    "name": "Yip Tin-Shing",
+    "birth_year": 1965,
+    "path": "data/people/p_yip_tinshing.json"
   },
   {
     "id": "p_yishang_zhang",
@@ -11389,6 +11407,12 @@
     "path": "data/people/p_yury_chaika.json"
   },
   {
+    "id": "p_yury_chernavsky",
+    "name": "Yury Chernavsky",
+    "birth_year": 1947,
+    "path": "data/people/p_yury_chernavsky.json"
+  },
+  {
     "id": "p_yury_dud",
     "name": "Yury Dud",
     "birth_year": 1986,
@@ -11684,6 +11708,11 @@
     "name": "Yūsuke Furusawa",
     "birth_year": 1975,
     "path": "data/people/p_yusuke_furusawa.json"
+  },
+  {
+    "id": "p_yusuke_hayashi",
+    "name": "Yūsuke Hayashi",
+    "path": "data/people/p_yusuke_hayashi.json"
   },
   {
     "id": "p_yusuke_hirayama",
