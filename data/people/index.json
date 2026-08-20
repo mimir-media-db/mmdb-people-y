@@ -5146,6 +5146,11 @@
     "path": "data/people/p_yinka_davies.json"
   },
   {
+    "id": "p_yinka_ogun",
+    "name": "Yinka Ogun",
+    "path": "data/people/p_yinka_ogun.json"
+  },
+  {
     "id": "p_yinka_quadri",
     "name": "Yinka Quadri",
     "birth_year": 1959,
@@ -6262,6 +6267,12 @@
     "name": "Yolande Moreau",
     "birth_year": 1953,
     "path": "data/people/p_yolande_moreau.json"
+  },
+  {
+    "id": "p_yolande_welimoum",
+    "name": "Yolande Welimoum",
+    "birth_year": 1988,
+    "path": "data/people/p_yolande_welimoum.json"
   },
   {
     "id": "p_yolande_zauberman",
@@ -8512,6 +8523,12 @@
     "path": "data/people/p_youssef_delara.json"
   },
   {
+    "id": "p_youssef_guezoum",
+    "name": "Youssef Guezoum",
+    "birth_year": 1975,
+    "path": "data/people/p_youssef_guezoum.json"
+  },
+  {
     "id": "p_youssef_hajdi",
     "name": "Youssef Hajdi",
     "birth_year": 1979,
@@ -8611,6 +8628,12 @@
     "name": "Yo-Yo Ma",
     "birth_year": 1955,
     "path": "data/people/p_yoyo_ma.json"
+  },
+  {
+    "id": "p_yoyo_rohm",
+    "name": "Yoyo Röhm",
+    "birth_year": 1965,
+    "path": "data/people/p_yoyo_rohm.json"
   },
   {
     "id": "p_yoyok_subagyo",
@@ -11339,6 +11362,12 @@
     "name": "Yuri Grymov",
     "birth_year": 1965,
     "path": "data/people/p_yuri_grymov.json"
+  },
+  {
+    "id": "p_yuri_habuka",
+    "name": "Yuri Habuka",
+    "birth_year": 1988,
+    "path": "data/people/p_yuri_habuka.json"
   },
   {
     "id": "p_yuri_ilyenko",
