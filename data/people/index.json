@@ -496,6 +496,12 @@
     "path": "data/people/p_yair_rubin.json"
   },
   {
+    "id": "p_yaiza_berrocal_guevara",
+    "name": "Yaiza Berrocal Guevara",
+    "birth_year": 1990,
+    "path": "data/people/p_yaiza_berrocal_guevara.json"
+  },
+  {
     "id": "p_yaiza_esteve",
     "name": "Yaiza Esteve",
     "birth_year": 1994,
@@ -859,6 +865,11 @@
     "id": "p_yan_tual",
     "name": "Yan Tual",
     "path": "data/people/p_yan_tual.json"
+  },
+  {
+    "id": "p_yan_wagner",
+    "name": "Yan Wagner",
+    "path": "data/people/p_yan_wagner.json"
   },
   {
     "id": "p_yan_widjaya",
@@ -2220,6 +2231,11 @@
     "id": "p_yaroslav_kendzior",
     "name": "Yaroslav Kendzior",
     "path": "data/people/p_yaroslav_kendzior.json"
+  },
+  {
+    "id": "p_yaroslav_korotkov",
+    "name": "Yaroslav Korotkov",
+    "path": "data/people/p_yaroslav_korotkov.json"
   },
   {
     "id": "p_yaroslav_kozak",
@@ -4478,6 +4494,11 @@
     "path": "data/people/p_yevgeniya_kregzhde.json"
   },
   {
+    "id": "p_yevgeniya_kriegsheim",
+    "name": "Yevgeniya Kriegsheim",
+    "path": "data/people/p_yevgeniya_kriegsheim.json"
+  },
+  {
     "id": "p_yevgeniya_lapova",
     "name": "Yevgeniya Lapova",
     "birth_year": 1985,
@@ -6492,6 +6513,11 @@
     "path": "data/people/p_yonatan_barilan.json"
   },
   {
+    "id": "p_yonatan_blumenfeld",
+    "name": "Yonatan Blumenfeld",
+    "path": "data/people/p_yonatan_blumenfeld.json"
+  },
+  {
     "id": "p_yonatan_nir",
     "name": "Yonatan Nir",
     "birth_year": 1977,
@@ -8101,6 +8127,11 @@
     "id": "p_yoshiro_hosono",
     "name": "Yoshirō Hosono",
     "path": "data/people/p_yoshiro_hosono.json"
+  },
+  {
+    "id": "p_yoshiro_oka",
+    "name": "Yoshirō Oka",
+    "path": "data/people/p_yoshiro_oka.json"
   },
   {
     "id": "p_yoshiro_uchida",
@@ -9738,6 +9769,12 @@
     "path": "data/people/p_yuji_kakizaki.json"
   },
   {
+    "id": "p_yuji_kato",
+    "name": "Yuji Kato",
+    "birth_year": 1956,
+    "path": "data/people/p_yuji_kato.json"
+  },
+  {
     "id": "p_yuji_kido",
     "name": "Yūji Kido",
     "birth_year": 1978,
@@ -10348,6 +10385,11 @@
     "name": "Yukiko Kashiwagi",
     "birth_year": 1947,
     "path": "data/people/p_yukiko_kashiwagi.json"
+  },
+  {
+    "id": "p_yukiko_manabe",
+    "name": "Yukiko Manabe",
+    "path": "data/people/p_yukiko_manabe.json"
   },
   {
     "id": "p_yukiko_mishima",
@@ -11909,6 +11951,11 @@
     "name": "Yuriko Ishida",
     "birth_year": 1969,
     "path": "data/people/p_yuriko_ishida.json"
+  },
+  {
+    "id": "p_yuriko_nakai",
+    "name": "Yuriko Nakai",
+    "path": "data/people/p_yuriko_nakai.json"
   },
   {
     "id": "p_yuriko_yoshitaka",
