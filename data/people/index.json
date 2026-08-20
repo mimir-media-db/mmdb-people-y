@@ -983,6 +983,12 @@
     "path": "data/people/p_yandamuri_veerendranath.json"
   },
   {
+    "id": "p_yande_codou_sene",
+    "name": "Yandé Codou Sène",
+    "birth_year": 1931,
+    "path": "data/people/p_yande_codou_sene.json"
+  },
+  {
     "id": "p_yandy_laurens",
     "name": "Yandy Laurens",
     "birth_year": 1989,
@@ -1846,6 +1852,11 @@
     "name": "Yann-Olivier Wicht",
     "birth_year": 1971,
     "path": "data/people/p_yannolivier_wicht.json"
+  },
+  {
+    "id": "p_yanti_puspita_sari",
+    "name": "Yanti Puspita Sari",
+    "path": "data/people/p_yanti_puspita_sari.json"
   },
   {
     "id": "p_yanwei_huang",
@@ -2835,6 +2846,12 @@
     "path": "data/people/p_yasuhiro_kawamura.json"
   },
   {
+    "id": "p_yasuhiro_kobayashi",
+    "name": "Yasuhiro Kobayashi",
+    "birth_year": 1959,
+    "path": "data/people/p_yasuhiro_kobayashi.json"
+  },
+  {
     "id": "p_yasuhiro_yoshida",
     "name": "Yasuhiro Yoshida",
     "birth_year": 1978,
@@ -2886,6 +2903,12 @@
     "id": "p_yasuko_beppu",
     "name": "Yasuko Beppu",
     "path": "data/people/p_yasuko_beppu.json"
+  },
+  {
+    "id": "p_yasuko_kobayashi",
+    "name": "Yasuko Kobayashi",
+    "birth_year": 1965,
+    "path": "data/people/p_yasuko_kobayashi.json"
   },
   {
     "id": "p_yasuko_matsuyuki",
@@ -3667,6 +3690,12 @@
     "name": "Yelena Prudnikova",
     "birth_year": 1949,
     "path": "data/people/p_yelena_prudnikova.json"
+  },
+  {
+    "id": "p_yelena_rayskaya",
+    "name": "Yelena Rayskaya",
+    "birth_year": 1957,
+    "path": "data/people/p_yelena_rayskaya.json"
   },
   {
     "id": "p_yelena_safonova",
@@ -7267,6 +7296,12 @@
     "path": "data/people/p_yoshikazu_miyao.json"
   },
   {
+    "id": "p_yoshikazu_okada",
+    "name": "Yoshikazu Okada",
+    "birth_year": 1959,
+    "path": "data/people/p_yoshikazu_okada.json"
+  },
+  {
     "id": "p_yoshikazu_suo",
     "name": "Yoshikazu Suo",
     "birth_year": 1952,
@@ -10096,6 +10131,12 @@
     "path": "data/people/p_yuliya_chepurko.json"
   },
   {
+    "id": "p_yuliya_damsker",
+    "name": "Yuliya Damsker",
+    "birth_year": 1963,
+    "path": "data/people/p_yuliya_damsker.json"
+  },
+  {
     "id": "p_yuliya_idlis",
     "name": "Yuliya Idlis",
     "birth_year": 1981,
@@ -10312,6 +10353,12 @@
     "name": "Yumi Yoshiyuki",
     "birth_year": 1965,
     "path": "data/people/p_yumi_yoshiyuki.json"
+  },
+  {
+    "id": "p_yumie_nishiogi",
+    "name": "Yumie Nishiogi",
+    "birth_year": 1960,
+    "path": "data/people/p_yumie_nishiogi.json"
   },
   {
     "id": "p_yumika_hayashi",
