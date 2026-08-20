@@ -1205,6 +1205,12 @@
     "path": "data/people/p_yang_show_king.json"
   },
   {
+    "id": "p_yang_sokil",
+    "name": "Yang Sok-il",
+    "birth_year": 1936,
+    "path": "data/people/p_yang_sokil.json"
+  },
+  {
     "id": "p_yang_somin",
     "name": "Yang So-min",
     "birth_year": 1979,
@@ -1585,6 +1591,12 @@
     "id": "p_yann_loubatiere",
     "name": "Yann Loubatière",
     "path": "data/people/p_yann_loubatiere.json"
+  },
+  {
+    "id": "p_yann_martel",
+    "name": "Yann Martel",
+    "birth_year": 1963,
+    "path": "data/people/p_yann_martel.json"
   },
   {
     "id": "p_yann_moix",
@@ -4408,6 +4420,12 @@
     "path": "data/people/p_yevgeny_kraynov.json"
   },
   {
+    "id": "p_yevgeny_krylatov",
+    "name": "Yevgeny Krylatov",
+    "birth_year": 1934,
+    "path": "data/people/p_yevgeny_krylatov.json"
+  },
+  {
     "id": "p_yevgeny_lavrentyev",
     "name": "Yevgeny Lavrentyev",
     "birth_year": 1972,
@@ -7011,6 +7029,12 @@
     "path": "data/people/p_yori_le.json"
   },
   {
+    "id": "p_yorick_goldewijk",
+    "name": "Yorick Goldewijk",
+    "birth_year": 1979,
+    "path": "data/people/p_yorick_goldewijk.json"
+  },
+  {
     "id": "p_yorick_le_saux",
     "name": "Yorick Le Saux",
     "birth_year": 1968,
@@ -7190,6 +7214,12 @@
     "name": "Yoshifumi Tsubota",
     "birth_year": 1975,
     "path": "data/people/p_yoshifumi_tsubota.json"
+  },
+  {
+    "id": "p_yoshiharu_yamaguchi",
+    "name": "Yoshiharu Yamaguchi",
+    "birth_year": 1943,
+    "path": "data/people/p_yoshiharu_yamaguchi.json"
   },
   {
     "id": "p_yoshihiko_aramaki",
@@ -7816,6 +7846,12 @@
     "path": "data/people/p_yossi_wein.json"
   },
   {
+    "id": "p_yosui_inoue",
+    "name": "Yōsui Inoue",
+    "birth_year": 1948,
+    "path": "data/people/p_yosui_inoue.json"
+  },
+  {
     "id": "p_yosuke_asari",
     "name": "Yōsuke Asari",
     "birth_year": 1987,
@@ -8287,6 +8323,12 @@
     "id": "p_yovan_nagwetch",
     "name": "Yovan Nagwetch",
     "path": "data/people/p_yovan_nagwetch.json"
+  },
+  {
+    "id": "p_yoya_wursch",
+    "name": "Yoya Wursch",
+    "birth_year": 1950,
+    "path": "data/people/p_yoya_wursch.json"
   },
   {
     "id": "p_yoyo_ma",
@@ -10474,6 +10516,12 @@
     "path": "data/people/p_yumiko_fujita.json"
   },
   {
+    "id": "p_yumiko_inoue",
+    "name": "Yumiko Inoue",
+    "birth_year": 1961,
+    "path": "data/people/p_yumiko_inoue.json"
+  },
+  {
     "id": "p_yumiko_itou",
     "name": "Yumiko Itou",
     "birth_year": 1959,
@@ -11203,6 +11251,11 @@
     "id": "p_yuriy_bober",
     "name": "Yuriy Bober",
     "path": "data/people/p_yuriy_bober.json"
+  },
+  {
+    "id": "p_yuriy_borets",
+    "name": "Yuriy Borets",
+    "path": "data/people/p_yuriy_borets.json"
   },
   {
     "id": "p_yuriy_brylynskyi",
@@ -12101,6 +12154,12 @@
     "path": "data/people/p_yuval_raz.json"
   },
   {
+    "id": "p_yuval_ron",
+    "name": "Yuval Ron",
+    "birth_year": 1999,
+    "path": "data/people/p_yuval_ron.json"
+  },
+  {
     "id": "p_yuval_scharf",
     "name": "Yuval Scharf",
     "birth_year": 1985,
@@ -12835,6 +12894,12 @@
     "name": "Øyvind Sandberg",
     "birth_year": 1953,
     "path": "data/people/p_yvind_sandberg.json"
+  },
+  {
+    "id": "p_yvind_staveland",
+    "name": "Øyvind Staveland",
+    "birth_year": 1960,
+    "path": "data/people/p_yvind_staveland.json"
   },
   {
     "id": "p_yvind_venstad_kjeksrud",
